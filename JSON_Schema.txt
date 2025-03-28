@@ -1,0 +1,3 @@
+# JSON-Schema 
+Das JSON-Schema finden sie hier:
+https://drks.de/search/download/jsonschema

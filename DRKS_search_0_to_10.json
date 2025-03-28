@@ -1,0 +1,3692 @@
+[
+  {
+    "drksId": "DRKS00009711",
+    "trialStatus": "REGISTERED",
+    "registrationDrks": "2016-03-29",
+    "registrationType": "PROSPECTIVE",
+    "lastUpdate": "2016-03-29",
+    "sponsored": true,
+    "url": null,
+    "trialDescriptions": [
+      {
+        "idLocale": {
+          "locale": "de"
+        },
+        "acronym": null,
+        "title": null,
+        "summary": null,
+        "scientificSummary": null
+      },
+      {
+        "idLocale": {
+          "locale": "en"
+        },
+        "acronym": "ECC and COPD",
+        "title": "Acute effects of eccentric cycling on systemic inflammation, oxidative stress and muscle damage markers in COPD patients",
+        "summary": "Chronic obstructive pulmonary disease (COPD) is a respiratory disease that is characterised by inflammation and remodelling of the respiratory airways producing a reduced blood oxygenation in the lungs and peripheral muscles, and a diminished expiratory force that maintain a hyperinflation of lungs. Over time, this disease debilitates patients, limiting their normal activities of daily living such as walking or climbing stairs in comparison to healthy individuals. Furthermore, an association between systemic inflammation and oxidative stress with muscle wasting has been proposed as an aggravating factor in COPD. We will investigate the effect of a particular mode of exercise called eccentric exercise, which is very low in the metabolic demand for patients. We will examine the acute effect of 2 bouts of eccentric exercise and one bout of concentric cycling on the oxidative stress and inflammatory markers.",
+        "scientificSummary": "Chronic obstructive pulmonary disease (COPD) is a respiratory disease that is characterised by inflammation and remodelling of the respiratory airways producing a reduced blood oxygenation in the lungs and peripheral muscles, and a diminished expiratory force that maintain a hyperinflation of lungs. Over time, this disease debilitates patients, limiting their normal activities of daily living such as walking or climbing stairs in comparison to healthy individuals. These characteristics also have systemic consequences such as muscle wasting and weakness. Furthermore, an association between systemic inflammation and oxidative stress with muscle wasting has been proposed as an aggravating factor in COPD. These characteristics of the disease generate a vicious cycle that promotes muscle wasting, inactivity and reduced quality of life due to the low tolerance to exercise in these patients. However, pulmonary rehabilitation (i.e. exercise) has shown to improve mobility, functionality and quality of life of COPD patients in all stages of the disease. Typically, endurance exercises have been used to improve exercise tolerance and aerobic capacity. On the other hand, resistance training programs have shown improvements on functionality, mobility and quality of life. Interestingly, eccentric cycling is a more novel exercise modality that has the unique feature of requiring only 35-50% of the oxygen than a concentric cycling exercise (i.e. endurance) to perform the same workload. This characteristic makes of eccentric cycling an ideal exercise modality for patients with limited pulmonary capacity, thus patients can train at higher workloads at a very low cardiopulmonary stress. This allows greater increases in muscle strength and mass when eccentric cycling is performed chronically as training. However, although it has been shown that eccentric exercise induce muscle damage, greater systemic inflammation and oxidative stress after a single bout of exercise in healthy individuals, it is not known whether this is also the case when eccentric exercise is repeated and muscle damage is minimal. Furthermore, it is also not known if these responses are different between COPD patients and healthy individuals.\nTherefore, the proposed project aim is to compare the acute effects of repeated eccentric cycling bouts on the inflammatory and oxidative stress markers between COPD patients and healthy age-matched individuals. \nThe proposed methodology to achieve these aims includes a Study that will investigate the acute responses of two bouts of eccentric cycling and one bout of concentric cycling on systemic inflammation and oxidative stress. Furthermore, we will compare these responses between COPD patients and healthy older adults.\nWe expect to demonstrate that COPD patients can tolerate eccentric cycling when muscle damage is controlled, and that small systemic inflammation and oxidative stress is induced after repeated bouts of eccentric cycling and a convencional bout of concentric cycling. More importantly we predict that eccentric cycling training is a more ideal training exercise for COPD patients than concentric cycling since it involves less cardiopulmonary demand, but allowing patients to workout at greater intensities."
+      }
+    ],
+    "observationalGroups": [
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "de"
+        },
+        "comment": null
+      },
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "en"
+        },
+        "comment": "COPD patients:\nInvestigation of the acute responses of two 30-min bouts of eccentric cycling and one 30-min bout of concentric cycling performed at 50% VO2max on systemic inflammation and oxidative stress. "
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "de"
+        },
+        "comment": null
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "en"
+        },
+        "comment": "Healthy older adults:\nInvestigation of the acute responses of two 30-min bouts of eccentric cycling and one 30-min bout of concentric cycling performed at 50% VO2max on systemic inflammation and oxidative stress. "
+      }
+    ],
+    "trialContacts": [
+      {
+        "idContactIdType": {
+          "type": "PRIMARY_SPONSOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "1509 Pedro de Valdivia Av.",
+          "city": "Santiago",
+          "zip": "7501015",
+          "country": "CL",
+          "email": "saranguiz@uft.cl",
+          "fax": null,
+          "firstName": "Santiago",
+          "lastName": "Aranguiz",
+          "phone": "(+56) 2 2420 7226",
+          "title": "Dr",
+          "url": null,
+          "affiliation": "Universidad Finis Terrae"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PUBLIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "1509 Pedro de Valdivia Av.",
+          "city": "Santiago",
+          "zip": "7501015",
+          "country": "CL",
+          "email": "saranguiz@uft.cl",
+          "fax": null,
+          "firstName": "Santiago",
+          "lastName": "Aranguiz",
+          "phone": "(+56) 2 2420 7226",
+          "title": "Dr",
+          "url": null,
+          "affiliation": "Universidad Finis Terrae"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PRINCIPAL_COORDINATING_INVESTIGATOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "1509 Pedro de Valdivia",
+          "city": "Santiago",
+          "zip": "7501015",
+          "country": "CL",
+          "email": "hzbinden@uft.cl",
+          "fax": "+56(2)224207574",
+          "firstName": "Hermann",
+          "lastName": "Zbinden",
+          "phone": "+56(2)224207574",
+          "title": "Dr",
+          "url": null,
+          "affiliation": "Universidad Finis Terrae"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "SCIENTIFIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "1509 Pedro de Valdivia",
+          "city": "Santiago",
+          "zip": "7501015",
+          "country": "CL",
+          "email": "hzbinden@uft.cl",
+          "fax": "+56(2)224207574",
+          "firstName": "Hermann",
+          "lastName": "Zbinden",
+          "phone": "+56(2)224207574",
+          "title": "Dr",
+          "url": null,
+          "affiliation": "Universidad Finis Terrae"
+        }
+      }
+    ],
+    "materialSupports": [],
+    "studyCharacteristic": {
+      "type": "INTERVENTIONAL",
+      "allocation": "NON_RANDOMIZED_CONTROLLED_TRIAL",
+      "assignment": "PARALLEL",
+      "blindingType": "OPEN",
+      "blindingWhoList": [],
+      "controlTypes": [
+        {
+          "idControlType": {
+            "controlType": "OTHER"
+          }
+        }
+      ],
+      "phase": "N_A",
+      "purpose": "TREATMENT",
+      "typeNonInterventional": null,
+      "characteristicDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "primaryOutcome": null,
+          "secondaryOutcome": null,
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "primaryOutcome": "To investigate acute effects of two bout of eccentric cycling and one concentric cycling on the oxidative stress (plasma TBARS, protein carbonil, 8-iso-prostaglandin, total gluthatione, gluthatione peroxidase, total antioxidant capacity) and systemic inflammation (Il-6, TNF-alpha) biomarkers of patients with COPD before, immediately after, 24, 48, 72 and 96 h after exercise",
+          "secondaryOutcome": "Examine the acute metabolic stress (oxygen consumption and saturation during cycling) and muscle damage markers (CK and muscle strength) before and 24, 48, 72 and 96 h after exercise",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        }
+      ],
+      "timing": null,
+      "duration": null
+    },
+    "trialResults": {
+      "ipdSharingPlan": null,
+      "trialResultsDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "ipdSharingPlanDescription": null,
+          "briefSummaryOfResultsDescription": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "ipdSharingPlanDescription": null,
+          "briefSummaryOfResultsDescription": null
+        }
+      ],
+      "plannedPublication": null,
+      "firstPublication": null,
+      "firstResultPublication": null,
+      "publications": [],
+      "relatedDrksTrials": [
+        {
+          "drksId": "DRKS00009755",
+          "description": "The trials DRKS00009711 and DRKS00009755 are part of one project"
+        }
+      ]
+    },
+    "secondaryIds": {
+      "otherPrimaryRegisterId": null,
+      "otherPrimaryRegisterName": null,
+      "universalTrialNumber": "U1111-1181-2272",
+      "eudraCtNumber": null,
+      "eudamedNumber": null,
+      "noOtherIdentificationNumbersAvailable": false
+    },
+    "otherSecondaryIds": [],
+    "studiedHealthConditions": [
+      {
+        "type": "MAIN",
+        "catalog": "FREETEXT",
+        "code": null,
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": null
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE"
+          }
+        ]
+      },
+      {
+        "type": "OTHER",
+        "catalog": "ICD10",
+        "code": "J44",
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Sonstige chronische obstruktive Lungenkrankheit"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Other chronic obstructive pulmonary disease"
+          }
+        ]
+      }
+    ],
+    "recruitment": {
+      "institutes": [
+        {
+          "type": "UNI_MEDICAL_CENTER",
+          "name": "Universidad Finis Terrae",
+          "city": "Santiago"
+        }
+      ],
+      "countries": [
+        {
+          "idCountry": {
+            "code": "CL"
+          }
+        }
+      ],
+      "centricType": "MONOCENTRIC",
+      "gender": "MALE",
+      "minimumAge": {
+        "amount": 40,
+        "unit": "YEARS"
+      },
+      "maximumAge": {
+        "amount": 90,
+        "unit": "YEARS"
+      },
+      "totalParticipants": null,
+      "plannedParticipants": 45,
+      "status": "PENDING",
+      "recruitmentDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": null,
+          "inclusionCriteria": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "Exclusion criteria will include current insulin therapy, long-term oxygen therapy, asthma, other concomitant pulmonary diseases or other diseases that could affect physical activity, such as neurological diseases, kidney diseases, symptomatic cardiovascular diseases, left cardiomyopathy, musculoskeletal and neuromuscular diseases. Also, illness that could cause death within 6 months, inability to perform the tests, unstable angina or congestive heart failure stage III or IV will be considered exclusion criteria (Gutiérrez et al., 2007; Pavié et al., 2011). ",
+          "inclusionCriteria": "All participants will obtain medical clearance from a physician before taking part in the current study.\nParticipants will have no history of participating in any structured exercise training program designed to improve leg strength or power over the previous 6 months, and will be willing to undertake 16 weeks of training without interruption and attend all testing sessions."
+        }
+      ],
+      "scheduledStartDate": "2016-04-03",
+      "scheduledCompletionDate": null,
+      "actualStartDate": null,
+      "actualCompletionDate": null,
+      "healthyVolunteers": null
+    },
+    "ethicsCommittee": {
+      "applicationDate": "2015-12-06",
+      "number": "11150293",
+      "ethicVotes": [
+        {
+          "dateOfVote": "2015-12-20",
+          "vote": "APPROVED",
+          "type": "ETHICS_COMMITTEE",
+          "contact": null
+        }
+      ]
+    },
+    "studyWithdrawn": null,
+    "studyWithdrawnMessage": null
+  },
+  {
+    "drksId": "DRKS00010700",
+    "trialStatus": "UPDATED",
+    "registrationDrks": "2016-06-28",
+    "registrationType": "RETROSPECTIVE",
+    "lastUpdate": "2016-08-18",
+    "sponsored": false,
+    "url": null,
+    "trialDescriptions": [
+      {
+        "idLocale": {
+          "locale": "de"
+        },
+        "acronym": "A4091057",
+        "title": "Eine randomisierte, doppelblinde, placebokontrollierte, multizentrische Studie der Phase 3 zur analgetischen Wirksamkeit und Sicherheit der subkutanen Anwendung von Tanezumab bei Patienten mit Hüft- oder Kniearthrose",
+        "summary": "Bei Tanezumab handelt es sich um einen monoklonalen Antikörper, der an den Nervenwachstumsfaktor (nerve growth factor, NGF) bindet und dessen Wirkungen hemmt. Die Arzneimittelklasse der Nervenwachstumsfaktor-Inhibitoren (NGFI) könnte einen bedeutenden Durchbruch bei der Therapie chronischer Schmerzen darstellen und befindet sich derzeit in der Phase der klinischen Prüfung für die Behandlung von Schmerzen im Zusammenhang mit Arthrose oder von anderen chronischen Schmerzerkrankungen.\nDie abgeschlossenen Phase-2- und Phase-3-Studien, die bislang durchgeführt wurden, haben gezeigt, dass Tanezumab wirksam und im Allgemeinen sicher und gut verträglich für die Behandlung von Arthrose-bedingten Schmerzen sowie chronischen Schmerzen des unteren Rückens ist.\nDas primäre Ziel dieser Studie ist der Nachweis der überlegenen Wirksamkeit von Tanezumab 5 mg und 2,5 mg, alle 8 Wochen subkutan (s.c.) verabreicht, im Vergleich zu Placebo in Woche 24 bei Patienten mit Knie- oder Hüftarthrose. In früheren klinischen Studien der Phase 3 wurde nachgewiesen, dass die 2,5-mg-Dosis bei intravenöser Anwendung einen Nutzen hinsichtlich der Wirksamkeit bei einem günstigen Sicherheitsprofil bietet. Die 5-mg-Dosis wird voraussichtlich gegenüber der 2,5-mg-Dosis einen zusätzlichen Nutzen hinsichtlich der Wirksamkeit bringen, wenn man von den Daten aus früheren Studien ausgeht.\n",
+        "scientificSummary": null
+      },
+      {
+        "idLocale": {
+          "locale": "en"
+        },
+        "acronym": "A4091057",
+        "title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled, Multicenter Study of the Analgesic Efficacy and Safety of the Subcutaneous Administration of Tanezumab in Subjects with Osteoarthritis of the Hip or Knee",
+        "summary": "Tanezumab is a monoclonal antibody that binds to and inhibits the actions of nerve growth\nfactor (NGF). The Nerve Growth Factor Inhibitor (NGFI) class may offer an important\nbreakthrough in the treatment of chronic pain and is under clinical investigation for the\ntreatment of pain associated with osteoarthritis or other chronic pain conditions.\nThe completed Phase 2 and Phase 3 studies conducted to date have demonstrated that\ntanezumab is efficacious and generally safe and well tolerated for the treatment of pain due\nto osteoarthritis and chronic low back pain.\nThe primary objective of this study is to demonstrate superior efficacy of tanezumab 5 mg\nand 2.5 mg administered subcutaneously (SC) every 8 weeks versus placebo at Week 24 in\nsubjects with osteoarthritis of the knee or hip. The 2.5 mg dose was shown to provide\nefficacy benefits with a favorable safety profile when administered intravenously in previous\nPhase 3 clinical trials. The 5 mg dose is expected to provide added efficacy benefit over the\n2.5 mg dose based on data from previous studies.",
+        "scientificSummary": null
+      }
+    ],
+    "observationalGroups": [
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "de"
+        },
+        "comment": "Tanezumab 2,5 mg subkutan, Tag 1, Woche 8, Woche 16"
+      },
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "en"
+        },
+        "comment": " Tanezumab 2,5 mg subcutaneous, Day 1, Week 8, Week 16"
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "de"
+        },
+        "comment": "Tanezumab 5 mg subkutan, Tag 1, Woche 8, Woche 16"
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "en"
+        },
+        "comment": "Tanezumab 5 mg subcutaneous, Day 1, Week 8, Week 16"
+      },
+      {
+        "idArm": {
+          "arm": 3,
+          "locale": "de"
+        },
+        "comment": "Placebo subkutan, Tag 1, Woche 8, Woche 16"
+      },
+      {
+        "idArm": {
+          "arm": 3,
+          "locale": "en"
+        },
+        "comment": "Placebo subcutaneous, Day 1, Week 8, Week 16"
+      }
+    ],
+    "trialContacts": [
+      {
+        "idContactIdType": {
+          "type": "PRIMARY_SPONSOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "235 East 42nd Street",
+          "city": "New York",
+          "zip": "NY 10017",
+          "country": "US",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Pfizer Inc"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PUBLIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Linkstr. 10",
+          "city": "Berlin",
+          "zip": "10785",
+          "country": "DE",
+          "email": "klinische.studie@pfizer.com",
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": "+49 (0) 30 / 550055 – 51000",
+          "title": null,
+          "url": null,
+          "affiliation": "Pfizer Deutschland GmbH"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PRINCIPAL_COORDINATING_INVESTIGATOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Walton Oaks, Darking Road",
+          "city": "Tadworth",
+          "zip": "KT20 7NS",
+          "country": "GB",
+          "email": "/",
+          "fax": "/",
+          "firstName": "William",
+          "lastName": "Carey",
+          "phone": "+44 1304 640 777",
+          "title": "Dr.",
+          "url": "/",
+          "affiliation": "Pfizer Limited"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "SCIENTIFIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Walton Oaks, Darking Road",
+          "city": "Tadworth",
+          "zip": "KT20 7NS",
+          "country": "GB",
+          "email": "/",
+          "fax": "/",
+          "firstName": "William",
+          "lastName": "Carey",
+          "phone": "+44 1304 640 777",
+          "title": "Dr.",
+          "url": "/",
+          "affiliation": "Pfizer Limited"
+        }
+      }
+    ],
+    "materialSupports": [
+      {
+        "contact": {
+          "streetAndNo": "235 East 42nd Street",
+          "city": "New York",
+          "zip": "NY 10017",
+          "country": "US",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Pfizer Inc"
+        },
+        "type": "COMMERCIAL"
+      }
+    ],
+    "studyCharacteristic": {
+      "type": "INTERVENTIONAL",
+      "allocation": "RANDOMIZED_CONTROLLED_TRIAL",
+      "assignment": "PARALLEL",
+      "blindingType": "BLINDED",
+      "blindingWhoList": [
+        {
+          "idBlindingWho": {
+            "blindingWho": "ASSESSOR"
+          }
+        },
+        {
+          "idBlindingWho": {
+            "blindingWho": "CAREGIVER"
+          }
+        },
+        {
+          "idBlindingWho": {
+            "blindingWho": "INVESTIGATOR_THERAPIST"
+          }
+        },
+        {
+          "idBlindingWho": {
+            "blindingWho": "PATIENT_SUBJECT"
+          }
+        }
+      ],
+      "controlTypes": [
+        {
+          "idControlType": {
+            "controlType": "PLACEBO"
+          }
+        }
+      ],
+      "phase": "PHASE_III",
+      "purpose": "SUPPORTIVE_CARE",
+      "typeNonInterventional": null,
+      "characteristicDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "primaryOutcome": "Nachweis der überlegenen Wirksamkeit von Tanezumab 5 mg und 2,5 mg, alle 8 Wochen subkutan (s.c.) verabreicht, im Vergleich zu Placebo in Woche 24",
+          "secondaryOutcome": "Beurteilung der Sicherheit von Tanezumab 2,5 mg s.c. und 5 mg s.c.",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "primaryOutcome": "Demonstrate superior efficacy of tanezumab 5 mg and 2.5 mg administered\nsubcutaneously (SC) every 8 weeks versus placebo at Week 24",
+          "secondaryOutcome": "Evaluate the safety of tanezumab 2.5 mg SC and 5 mg SC",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        }
+      ],
+      "timing": null,
+      "duration": null
+    },
+    "trialResults": {
+      "ipdSharingPlan": null,
+      "trialResultsDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "ipdSharingPlanDescription": null,
+          "briefSummaryOfResultsDescription": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "ipdSharingPlanDescription": null,
+          "briefSummaryOfResultsDescription": null
+        }
+      ],
+      "plannedPublication": null,
+      "firstPublication": null,
+      "firstResultPublication": null,
+      "publications": [],
+      "relatedDrksTrials": []
+    },
+    "secondaryIds": {
+      "otherPrimaryRegisterId": "NCT02709486",
+      "otherPrimaryRegisterName": "ClinicalTrials.gov",
+      "universalTrialNumber": null,
+      "eudraCtNumber": "2013-004508-21",
+      "eudamedNumber": null,
+      "noOtherIdentificationNumbersAvailable": false
+    },
+    "otherSecondaryIds": [
+      {
+        "value": "EUCTR2013-004508-21-DE",
+        "description": "EU Clinical Trials Register"
+      }
+    ],
+    "studiedHealthConditions": [
+      {
+        "type": "MAIN",
+        "catalog": "FREETEXT",
+        "code": null,
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Hüftarthrose, \nKniearthrose "
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Osteoarthritis of the hip or knee"
+          }
+        ]
+      }
+    ],
+    "recruitment": {
+      "institutes": [
+        {
+          "type": "UNI_MEDICAL_CENTER",
+          "name": "Charité, Klinik für Rheumatologie und Klinische Immunologie",
+          "city": "Berlin"
+        },
+        {
+          "type": "MEDICAL_CENTER",
+          "name": "Kerckhoff-Klinik GmbH, Abteilung für Rheumatologie und klinische Immunologie",
+          "city": "Bad Nauheim"
+        },
+        {
+          "type": "PRACTICE",
+          "name": "",
+          "city": "Offenbach am Main"
+        },
+        {
+          "type": "PRACTICE",
+          "name": "",
+          "city": "Bad Doberan"
+        },
+        {
+          "type": "PRACTICE",
+          "name": "",
+          "city": "Aachen"
+        },
+        {
+          "type": "MEDICAL_CENTER",
+          "name": "Centrum für innovative Diagnostik und Thearpie - Rheumatologie / Immunulogie (CIRI))",
+          "city": "Frankfurt a.M."
+        }
+      ],
+      "countries": [
+        {
+          "idCountry": {
+            "code": "AT"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "BG"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "DE"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "ES"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "FI"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "FR"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "GB"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "HU"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "IT"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "JP"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "PL"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "PT"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "RO"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "SE"
+          }
+        },
+        {
+          "idCountry": {
+            "code": "SK"
+          }
+        }
+      ],
+      "centricType": "MULTICENTRIC",
+      "gender": "ALL",
+      "minimumAge": {
+        "amount": 18,
+        "unit": "YEARS"
+      },
+      "maximumAge": {
+        "amount": null,
+        "unit": "NO_MAX_AGE"
+      },
+      "totalParticipants": null,
+      "plannedParticipants": 810,
+      "status": "RECRUITING",
+      "recruitmentDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "1. Patienten, die Mitarbeiter am Prüfzentrum und direkt an der Durchführung der Studie beteiligt sind, sowie deren Angehörige, Mitarbeiter am Prüfzentrum, die anderweitig unter der Aufsicht des Prüfarztes stehen, oder Patienten, die Angestellte von Pfizer und direkt an der Durchführung der Studie beteiligt sind.\n\n2. Body Mass Index (BMI) von > 39 kg/m2.\n\n3. Anamnestisch bekannte andere Erkrankung, die das Studiengelenk betreffen könnte, einschließlich entzündlicher Gelenkerkrankungen wie rheumatoide Arthritis, seronegative Spondylarthropathien (z. B. ankylosierende Spondylitis, Psoriasis-Arthritis, durch eine entzündliche Darmerkrankung bedingte Arthropathie), Kristallerkrankungen (z. B. Gicht oder Pseudogicht), Endokrinopathien, metabolische Gelenkerkrankungen, Lupus erythematodes, Gelenkentzündungen, Morbus Paget oder Tumoren.\n\n4. Radiologischer Nachweis einer der folgenden Erkrankungen bei einer Röntgenaufnahme beim Screening gemäß Feststellung des zentralen Gutachters für Röntgenbilder und gemäß Definition im Atlas für bildgebende Verfahren des Tanezumab-Programms: starke Fehlstellung des Knies, schwere Chondrokalzinose; andere Arthropathien (z. B. rheumatoide Arthritis), systemische metabolische Knochenerkrankung (z. B. Pseudogicht, Morbus Paget, metastatische Kalzifizierungen), große zystische Läsionen, primäre oder metastatische Tumorläsionen, Belastungsfraktur oder traumatische Fraktur.\n\n5. Radiologischer Nachweis einer der folgenden Erkrankungen gemäß Feststellung des zentralen Gutachters für Röntgenbilder und gemäß Definition im Atlas für bildgebende Verfahren des Tanezumab-Programms beim Screening: 1) schnell voranschreitende Arthrose, 2) atrophe oder hypotrophe Arthrose, 3) subchondrale Insuffizienzfrakturen, 4) spontane Osteonekrose des Kniegelenks (SPONK), 5) Osteonekrose oder 6) pathologische Fraktur.\n\n6. Anamnestisch bekannte Osteonekrose oder osteoporotische Fraktur (d. h. ein Patient mit Osteoporose und einer minimalen traumatischen oder atraumatischen Fraktur in der Anamnese).\n\n7. Anamnestisch bekanntes erhebliches Trauma oder Operation eines Knies, einer Hüfte oder einer Schulter innerhalb des letzten Jahres.\n\n8. Während der Studiendauer geplanter chirurgischer Eingriff.\n\n9. Weitgehende oder vollständige Behinderung (z. B. bettlägerige oder an den Rollstuhl gefesselte Patienten, die sich kaum oder gar nicht selbst versorgen können).\n\n10. Fibromyalgie, regionale Schmerzen aufgrund einer Lenden- oder Halswirbelstauchung mit Radikulopathie oder anderen mäßigen bis starken Schmerzen, welche die Untersuchungen oder die Selbstbeurteilung der Arthrose-bedingten Schmerzen verfälschen könnten. Patienten mit vorhandenen (aktuellen) Ischiasschmerzen in der Anamnese sind für eine Studienteilnahme nicht geeignet. Patienten mit früheren Ischiasschmerzen in der Anamnese, die seit mindestens einem Jahr asymptomatisch sind und bei einer gründlichen neurologischen Untersuchung keine Hinweise auf eine Radikulopathie oder durch den Ischias verursachte Neuropathie zeigen, sind für eine Studienteilnahme geeignet.\n\n11. Patienten mit anamnestisch bekanntem Karpaltunnelsyndrom (KTS) mit Anzeichen oder Symptomen eines KTS im Jahr vor dem Screening.\n\n12. Patienten, die für eine Operation als ungeeignet gelten, definiert als Grad > 3 gemäß der Klassifikation zum körperlichen Zustand der American Society of Anesthesiologists (ASA) für Operationen oder Patienten, die nicht bereit sind, sich bei Bedarf einer Gelenkersatzoperation zu unterziehen.\n\n13. Anamnestisch bekannte Unverträglichkeit oder Überempfindlichkeit gegen Paracetamol oder einen der sonstigen Bestandteile dieses Arzneimittels oder Vorliegen einer Erkrankung oder Anwendung von Begleitmedikation, wodurch die Anwendung von Paracetamol kontraindiziert ist (siehe Fachinformation des Arzneimittels).\n\n14. Anwendung nicht zulässiger Medikationen ohne angemessene Auswaschphase (falls zutreffend) vor dem Screening oder der Phase zur Anfangsbewertung der Schmerzen.\n\n15. Orale oder intramuskuläre Kortikosteroide innerhalb von 30 Tagen vor der Phase zur Anfangsbewertung der Schmerzen.\n\n16. Intraartikuläre Kortikosteroidinjektion in das Studiengelenk innerhalb von 12 Wochen oder in ein anderes Gelenk innerhalb von 30 Tagen vor der Phase zur Anfangsbewertung der Schmerzen.\n\n17. Intraartikuläre Hyaluronsäureinjektion in das Studiengelenk innerhalb von 30 Tagen (oder innerhalb von 18 Wochen für langwirksame Formulierungen wie Synvisc) vor der Phase zur Anfangsbewertung der Schmerzen.\n\n18. Anamnestisch bekannte Krebserkrankung innerhalb der letzten 5 Jahre vor dem Screening, mit Ausnahme von durch Resektion geheiltem Basalzell- oder Plattenepithelkarzinom der Haut.\n\n19. Anzeichen und Symptome einer klinisch bedeutsamen Herzerkrankung, einschließlich u. a.:\n- Ischämische Herzkrankheit (z. B. instabile Angina pectoris, Myokardinfarkt) in den letzten 6 Monaten vor dem Screening.\n- Operation oder Stentplatzierung aufgrund einer koronaren Herzerkrankung in den letzten 6 Monaten vor dem Screening.\n- Dekompensierte Herzinsuffizienz der NYHA-Klasse III oder IV oder bekannte linksventrikuläre Dysfunktion mit einer Ejektionsfraktion von <_ 35 %, Kardiomyopathie, Myokarditis in den letzten 6 Monaten vor dem Screening;\n- Ruhetachykardie (Herzfrequenz _> 120) oder Ruhebradykardie (Herzfrequenz <_45) im EKG beim Screening;\n- QTcF-Intervall > 500 msec in Abwesenheit von Störfaktoren wie Schenkelblock oder Herzschrittmacher beim Screening;\n- Jede andere kardiovaskuläre Erkrankung, die den Patienten nach Ansicht des Prüfarztes für eine Studienteilnahme ungeeignet macht.\n- Patienten mit einem Herzblock in der Anamnese. Patienten mit einem anamnestisch bekannten Herzblock, der mittlerweile durch einen funktionierenden Herzschrittmacher kontrolliert ist, und/oder vorübergehenden Episoden asymptomatischer Tachy- oder Bradyarrhythmien sind für eine Studienteilnahme geeignet.\n\n20. Diagnose einer transienten ischämischen Attacke in den letzten 6 Monaten vor dem Screening, Diagnose eines Schlaganfalls mit Restdefiziten (z. B. Aphasie, erhebliche motorische oder sensorische Defizite), die der Durchführung der erforderlichen Studienmaßnahmen entgegenstehen würden.\n\n21. Vorgeschichte, Diagnose oder Anzeichen und Symptome einer klinisch bedeutsamen neurologischen Erkrankung, einschließlich u. a.:\n- Alzheimer-Krankheit oder andere Arten von Demenz;\n- Klinisch bedeutsames Kopftrauma innerhalb des letzten Jahres;\n- Periphere oder autonomeNeuropathie;\n- Multiple Sklerose;\n- Epilepsie oder Anfallsleiden mit anamnestisch bekannten Krampfanfällen innerhalb der letzten 2 Jahre;\n- Myopathie.\n\n22. Vorgeschichte, Diagnose, Anzeichen oder Symptome einer klinisch bedeutsamen psychiatrischen Erkrankung, einschließlich u. a.:\n- Psychotische Störungen;\n- Somatoforme Störungen;\n- Bipolare Störungen;\n- Krankenhauseinweisung aufgrund von Depressionen oder Suizidversuch innerhalb der letzten 5 Jahre vor dem Screening oder aktive schwere Major Depression beim Screening (festgestellt anhand der Anamnese: bei Bedarf kann der Schweregrad der Depression mittels des Gesundheitsfragebogens für Patienten beurteilt werden [Patient Health Questionnaire; PHQ-9]. Ein Score von _> 15 bei den Fragen 1–9 des PHQ-9 entspricht einer schweren Depression.);\n- Jede andere psychiatrische Erkrankung, die den Patienten nach Ansicht des Prüfarztes für eine Studienteilnahme ungeeignet macht.\n\n23. Anamnestisch bekannter Alkohol-, Schmerzmittel- oder Drogenmissbrauch in den letzten 2 Jahren vor dem Screening.\n\n24. Frühere Anwendung eines exogenen NGF oder eines gegen NGF gerichteten Antikörpers.\n\n25. Anamnestisch bekannte allergische oder anaphylaktische Reaktion auf einen therapeutischen oder diagnostischen monoklonalen Antikörper oder ein IgG-Fusionsprotein.\n\n26. Ruhe-Blutdruck (BD) im Sitzen von _> 160 mmHg (systolisch) oder _> 100 mmHg (diastolisch) beim Screening. Wird bei einem Patienten beim Screening eine unbehandelte, bedeutsame Hypertonie festgestellt und mit einer blutdrucksenkenden Behandlung begonnen, muss die Beurteilung der Studieneignung aufgeschoben werden, bis der BD und die blutdrucksenkende Medikation seit mindestens einem Monat stabil sind. Bei Patienten mit früher diagnostizierter Hypertonie muss die blutdrucksenkende Medikation seit mindestens 1 Monat vor dem Screening stabil sein.\n\n27. Patienten mit Hinweisen auf eine orthostatische Hypotonie anhand von wiederholten orthostatischen Blutdruckmessungen. Falls keine orthostatische Blutdruckänderung bestimmt werden kann (z. B. im Liegen kann kein stabiler systolischer und diastolischer Blutdruck ermittelt werden), ist der Patient nicht für die Studie geeignet.\n\n28. Patienten mit einem Gesamt-Impact-Score von > 7 beim Survey of Autonomic Symptoms (SAS).\n\n29. Alanin-Aminotransferase (ALT) oder Aspartat-Aminotransferase (AST) _> 3,0 x oberer Normalwert oder Kreatininwert über 1,7 mg/dl (150 μmol/l) bei Männern bzw. 1,5 mg/dl (133 μmol/l) bei Frauen oder Hämoglobin A1c _> 10 % beim Screening. Zur Bestätigung können die Tests wiederholt werden.\n\n30. Nachweis missbräuchlich angewendeter Medikamente (einschließlich verschreibungspflichtiger Medikamente ohne gültige Verordnung) oder illegaler Drogen bei der toxikologischen Urinuntersuchung beim Screening.\n\n31. Positiver Test auf Hepatitis B, Hepatitis C oder das humane Immundefizienzvirus (HIV) beim Screening, der auf eine gegenwärtige Infektion hindeutet.\n\n32. Teilnahme an anderen Studien mit einem oder mehreren Prüfpräparaten innerhalb von 30 Tagen (oder 90 Tagen bei Biologika) vor Studienaufnahme und/oder während der Studienteilnahme.\n\n33. Schwangere Patientinnen, stillende Patientinnen sowie gebärfähige Patientinnen, die nicht bereit oder in der Lage sind, für die Dauer der Studie und bis 112 Tage (16 Wochen) nach der letzten Dosis des Prüfpräparats zwei (2) hochwirksame oder akzeptable Verhütungsmethoden, wie in diesem Prüfplan beschrieben, anzuwenden.\n\n34. Andere schwere akute oder chronische medizinische oder psychiatrische Erkrankung oder Anomalie der Laborwerte, die das mit der Studienteilnahme oder der Anwendung des Prüfpräparats verbundene Risiko erhöhen oder die Auswertung der Studienergebnisse beeinträchtigen könnte, und daher der Patient nach Einschätzung des Prüfarztes nicht für eine Aufnahme in diese Studie geeignet ist.",
+          "inclusionCriteria": "1. Nachweis einer persönlich unterzeichneten und datierten Einwilligungserklärung, die erkennen lässt, dass der Patient (oder ein gesetzlicher Vertreter) über alle relevanten Aspekte der Studie informiert worden ist.\n\n2. Männer oder Frauen im Alter von ≥ 18 Jahren.\n\n3. Diagnose einer Hüft- oder Kniearthrose im Studiengelenk gemäß den Kriterien des American College of Rheumatology, die radiologisch bestätigt wurde (Schweregrad im Röntgenbild nach Kellgren-Lawrence von ≥ 2 gemäß Diagnose der zentralen Auswertungsstelle).\n\n4. Dokumentierte Anamnese, die zeigt, dass\n- eine Therapie mit Paracetamol keine ausreichende Schmerzlinderung gebracht hat;\n- eine Therapie mit oralen NSAR nicht zu einer angemessenen Schmerzlinderung geführt hat oder der Patient aufgrund einer Kontraindikation bzw. Unverträglichkeit keine NSAR anwenden darf.\n\nUND mindestens 1 der folgenden Kriterien:\n\n- Dokumentierte Anamnese, die zeigt, dass eine Behandlung mit Tramadol keine angemessene Schmerzlinderung gebracht hat oder der Patient aufgrund einer Kontraindikation bzw. Unverträglichkeit kein Tramadol anwenden darf,\n\n- Dokumentierte Anamnese, die zeigt, dass eine Behandlung mit Opioiden keine angemessene Schmerzlinderung gebracht hat oder der Patient aufgrund einer Kontraindikation bzw. Unverträglichkeit keine Opioide anwenden darf oder nicht bereit ist, Opioide anzuwenden.\n\n5. Score von ≥ 5 auf der numerischen Einschätzungsskala (Numerical Rating Scale, NRS) für Schmerzen des WOMAC im Studiengelenk beim Screening.\n\n6. Die Patienten müssen bereit sein, sämtliche gegen Arthrose angewendeten Schmerzmedikamente abzusetzen, mit Ausnahme der Bedarfsmedikation (Paracetamol), und während der Studiendauer keine nicht zulässigen Schmerzmittel anzuwenden, es sei denn, sie sind laut Prüfplan erlaubt.\n\n7. Patientinnen im gebärfähigen Alter, bei denen das Risiko einer Schwangerschaft besteht, müssen zustimmen, während der gesamten Studie und bis 112 Tage (16 Wochen) nach der letzten Dosis des ihnen zugewiesenen, subkutan angewendeten Prüfpräparats 2 hochwirksame oder akzeptable Verhütungsmethoden anzuwenden.\n\nHINWEIS: In Japan sind nur nicht gebärfähige Patientinnen für diese Studie geeignet.\n\n8. Nicht gebärfähige Patientinnen erfüllen mindestens eins der folgenden Kriterien:\n- Dokumentierte Hysterektomie und/oder beidseitige Oophorektomie;\n- medizinisch bestätigte Ovarialinsuffizienz oder\n- postmenopausaler Status, definiert als: Ausbleiben der regulären Menstruation seit mindestens 12 aufeinanderfolgenden Monaten ohne andere pathologische oder physiologische Ursache und Bestätigung des postmenopausalen Zustands durch einen entsprechenden Serumwert des follikelstimulierenden Hormons (FSH).\n\n9. Patienten, die bereit und in der Lage sind, sich an die Richtlinien zur Lebensweise, die geplanten Termine und den Behandlungsplan zu halten sowie die Laboruntersuchungen und sonstigen Studienmaßnahmen bis zum Termin bei Studienende durchführen zu lassen."
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "1. Subjects who are investigational site staff members directly involved in the conduct of\nthe study and their family members, site staff members otherwise supervised by the\nInvestigator, or subjects who are Pfizer employees directly involved in the conduct of the\ntrial.\n\n2. Body Mass Index (BMI) of >39 kg/m2.\n\n3. History of other disease that may involve the index joint including inflammatory joint\ndisease such as rheumatoid arthritis, seronegative spondyloarthropathy (eg, ankylosing\nspondylitis, psoriatic arthritis, inflammatory bowel disease related arthropathy),\ncrystalline disease (eg, gout or pseudogout), endocrinopathies, metabolic joint diseases,\nlupus erythematosus, joint infections, Paget’s disease, or tumors.\n\n4. Radiographic evidence of any of the following conditions in any screening radiograph as\ndetermined by the central radiology reviewer and as defined in the tanezumab program\nimaging atlas: excessive malalignment of the knee, severe chondrocalcinosis; other\narthropathies (eg, rheumatoid arthritis), systemic metabolic bone disease (eg, pseudogout,\nPaget’s disease, metastatic calcifications), large cystic lesions, primary or metastatic\ntumor lesions, stress or traumatic fracture.\n\n5. Radiographic evidence of any of the following conditions as determined by the central\nradiology reviewer and as defined in the tanezumab program imaging atlas at Screening:\n1) rapidly progressive osteoarthritis, 2) atrophic or hypotrophic osteoarthritis,\n3) subchondral insufficiency fractures, 4) spontaneous osteonecrosis of the knee\n(SPONK), 5) osteonecrosis, or 6) pathologic fracture.\n\n6. A history of osteonecrosis or osteoporotic fracture (ie, a subject with a history of\nosteoporosis and a minimally traumatic or atraumatic fracture).\n\n7. History of significant trauma or surgery to a knee, hip or shoulder within the previous\nyear.\n\n8. Planned surgical procedure during the duration of the study.\n\n9. Largely or wholly incapacitated, (eg, subject bedridden or confined to a wheelchair,\npermitting little or no self-care).\n\n10. Fibromyalgia, regional pain caused by lumbar or cervical compression with\nradiculopathy or other moderate to severe pain that may confound assessments or selfevaluation\nof the pain associated with osteoarthritis. Subjects with a present (current)\nhistory of sciatica are not eligible for participation. Subjects with a past history of\nsciatica who have been asymptomatic for at least one year and who have no evidence of radiculopathy or sciatic neuropathy on thorough neurologic examination are eligible for\nparticipation.\n\n11. Subjects with a past history of carpal tunnel syndrome (CTS) with signs or symptoms of\nCTS in the one year prior to Screening.\n\n12. Subjects considered unfit for surgery, defined as Grade >3 on the American Society of\nAnesthesiologists (ASA) physical classification system for surgery, or\nsubjects who would not be willing to undergo joint replacement surgery if required.\n\n13. History of intolerance or hypersensitivity to acetaminophen (paracetamol) or any of its\nexcipients or existence of a medical condition or use of concomitant medication for\nwhich the use of acetaminophen is contraindicated (refer to product labeling).\n\n14. Use of prohibited medications without the appropriate washout period (if applicable)\nprior to Screening or Initial Pain Assessment Period.\n\n15. Oral or intramuscular corticosteroids within 30 days prior to the Initial Pain Assessment\nPeriod.\n\n16. Intra-articular corticosteroid injection in the index joint within 12 weeks, or to any other\njoint within 30 days prior to the Initial Pain Assessment Period.\n\n17. Intra-articular hyaluronic acid injection in the index joint within 30 days (or within\n18 weeks for long-acting formulations such as Synvisc) prior to the Initial Pain\nAssessment Period.\n\n18. History of cancer within 5 years prior to Screening, except for cutaneous basal cell or\nsquamous cell cancer resolved by excision.\n\n19. Signs and symptoms of clinically significant cardiac disease including but not limited to:\n- Ischemic cardiac disease (eg, unstable angina, myocardial infarction) in the 6 months\nprior to Screening;\n- Surgery or stent placement for coronary artery disease in the 6 months prior to\nScreening;\n- New York Heart Association (NYHA) Class III or IV congestive heart failure or\nknown left ventricular dysfunction with ejection fraction <_35%, cardiomyopathy,\nmyocarditis in the 6 months prior to Screening;\n- Resting tachycardia (heart rate_>120) or resting bradycardia (heart rate <_45) on ECG\nat Screening;\n- QTcF interval >500 msec in the absence of confounding factors like bundle branch\nblock or paced rhythm at Screening;\n- Any other cardiovascular illness that in the opinion of the investigator would render a\nsubject unsuitable to participate in the study.\n- Subjects with a history of heart block.\nPatients with a history of heart block now controlled by a functioning cardiac\npacemaker and/or transient episodes of asymptomatic tachy- or bradyarrhythmia are\neligible.\n\n20. Diagnosis of a transient ischemic attack in the 6 months prior to Screening, diagnosis of\nstroke with residual deficits (eg, aphasia, substantial motor or sensory deficits), that\nwould preclude completion of required study activities.\n\n21. History, diagnosis, or signs and symptoms of clinically significant neurological disease,\nincluding but not limited to:\n- Alzheimer’s disease or other types of dementia;\n- Clinically significant head trauma within the past year;\n- Peripheral or autonomic neuropathy;\n- Multiple sclerosis\n- Epilepsy or seizure disorder with history of seizure within the last 2 years;\n- Myopathy.\n\n22. History, diagnosis, signs or symptoms of any clinically significant psychiatric disorder,\nincluding but not limited to:\n- Psychotic disorders;\n- Somatoform disorders;\n- Bipolar disorders;\n- Hospital admission for depression or suicide attempt within 5 years of Screening, or\nactive severe major depression at Screening (determined from medical history: if\nneeded, severity of depression may be assessed using the Patient Health\nQuestionnaire [PHQ-9]. A score of _>15 on questions 1-9 of the PHQ-9 corresponds\nto severe depression.)\n- Any other psychiatric illness that in the opinion of the investigator would render a\nsubject unsuitable to participate in the study.\n\n23. History of known alcohol, analgesic or drug abuse within 2 years of Screening.\n\n24. Previous exposure to exogenous NGF or to an anti-NGF antibody.\n\n25. History of allergic or anaphylactic reaction to a therapeutic or diagnostic monoclonal\nantibody or IgG-fusion protein.\n\n26. Resting, sitting blood pressure (BP) _>160 mm Hg in systolic pressure or _>100 mm Hg in\ndiastolic pressure at Screening. If a subject is found to have untreated significant\nhypertension at Screening and antihypertensive treatment is initiated, assessment for\nstudy eligibility should be deferred until BP and antihypertensive medication have been\nstable for at least one month. For subjects with previously diagnosed hypertension,\nantihypertensive medications must be stable for at least 1 month prior to Screening.\n\n27. Subjects who have evidence of orthostatic hypotension based upon replicate orthostatic\nblood pressure measurements.If orthostatic blood pressure\nchange is not able to be determined (eg, unable to establish a stable supine systolic and\ndiastolic blood pressure) then subject is not eligible for the study.\n\n28. Subjects with a total impact score of >7 on the Survey of Autonomic Symptoms (SAS).\n\n29. Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) _>3.0 times the\nupper limit of normal, or creatinine exceeding 1.7 mg/dL (150 μmol/L) in men or\n1.5 mg/dL (133 μmol/L) in women, or hemoglobin A1c _>10% at Screening. Repeat\nconfirmatory tests may be performed.\n\n30. Presence of drugs of abuse (including prescription medications without a valid\nprescription), or illegal drugs in the urine toxicology screen obtained at Screening.\n\n31. Positive Hepatitis B, Hepatitis C, or Human Immunodeficiency Virus (HIV) tests at\nScreening indicative of current infection.\n\n32. Participation in other studies involving investigational drug(s) within 30 days (or 90 days\nfor biologics) prior to study entry and/or during study participation.\n\n33. Pregnant female subjects; breastfeeding female subjects; female subjects of childbearing\npotential who are unwilling or unable to use two (2) highly effective or acceptable\nmethods of contraception as outlined in this protocol for the duration of the study and for\n112 days (16 weeks) after last dose of investigational product.\n\n34. Other severe acute or chronic medical or psychiatric condition or laboratory abnormality\nthat may increase the risk associated with study participation or investigational product\nadministration or may interfere with the interpretation of study results and, in the\njudgment of the investigator, would make the subject inappropriate for entry into this\nstudy.",
+          "inclusionCriteria": "1. Evidence of a personally signed and dated informed consent document indicating that the\nsubject (or a legally acceptable representative) has been informed of all pertinent aspects\nof the study.\n\n2. Male or female ≥18 years of age.\n\n3. A diagnosis of osteoarthritis of the hip or knee in the index joint based on American\nCollege of Rheumatology criteria with x-ray confirmation (a Kellgren-Lawrence17 x-ray\ngrade of ≥2 as diagnosed by the Central Reader).\n\n4. Documented history indicating that:\n- acetaminophen therapy has not provided sufficient pain relief;\n- oral NSAID therapy has not provided adequate pain relief or subject is unable to take\nNSAIDs due to contraindication or inability to tolerate.\nAND at least 1 of the following criteria:\n- Documented history indicating that tramadol treatment has not provided adequate\npain relief or subject is unable to take tramadol due to contraindication or inability to\ntolerate,\n- Documented history indicating that opioid treatment has not provided adequate pain\nrelief or subject is unwilling to take opioids, or unable to take opioids due to\ncontraindication or inability to tolerate.\n\n5. WOMAC Pain subscale Numerical Rating Scale (NRS) ≥5 in the index joint at\nScreening.\n\n6. Subjects must be willing to discontinue all pain medications for osteoarthritis except\nrescue medication (acetaminophen) and not use prohibited pain medications throughout\nthe duration of the study except as permitted per protocol.\n\n7. Female subjects of childbearing potential and at risk for pregnancy must agree to use\n2 highly effective or acceptable methods of contraception throughout the study and for\n112 days (16 weeks) after the last dose of assigned subcutaneous investigational product.\nNOTE: In Japan, only female subjects who are not of childbearing potential will be\neligible for this study.\n\n8. Female subjects who are not of childbearing potential meet at least one of the following\ncriteria:\n- Have undergone a documented hysterectomy and/or bilateral oophorectomy;\n- Have medically confirmed ovarian failure; or\n- Achieved post-menopausal status defined as follows: cessation of regular menses for\nat least 12 consecutive months with no alternative pathological or physiological cause\nand have a serum follicle stimulating hormone (FSH) level confirming the postmenopausal\nstate.\n\n9. Subjects who are willing and able to comply with lifestyle guidelines, scheduled visits,\ntreatment plan, laboratory tests, and other study procedures through the End of Study\nvisit."
+        }
+      ],
+      "scheduledStartDate": null,
+      "scheduledCompletionDate": null,
+      "actualStartDate": "2016-03-29",
+      "actualCompletionDate": null,
+      "healthyVolunteers": null
+    },
+    "ethicsCommittee": {
+      "applicationDate": "2015-12-03",
+      "number": "15/558 EK-10",
+      "ethicVotes": [
+        {
+          "dateOfVote": "2016-04-19",
+          "vote": "APPROVED",
+          "type": "ETHICS_COMMITTEE",
+          "contact": {
+            "streetAndNo": "Fehrbelliner Platz 1",
+            "city": "Berlin",
+            "zip": "10707",
+            "country": "DE",
+            "email": "ethik-kommission@lageso.berlin.de",
+            "fax": "+49-30-90283383",
+            "firstName": null,
+            "lastName": null,
+            "phone": "+49-30-902291220",
+            "title": null,
+            "url": null,
+            "affiliation": "Ethik-Kommission des Landes Berlin"
+          }
+        }
+      ]
+    },
+    "studyWithdrawn": null,
+    "studyWithdrawnMessage": null
+  },
+  {
+    "drksId": "DRKS00010701",
+    "trialStatus": "REGISTERED",
+    "registrationDrks": "2016-12-22",
+    "registrationType": "RETROSPECTIVE",
+    "lastUpdate": "2016-12-22",
+    "sponsored": true,
+    "url": null,
+    "trialDescriptions": [
+      {
+        "idLocale": {
+          "locale": "de"
+        },
+        "acronym": "Sturzangst_2016",
+        "title": "Erfassung der Sturzangstprävalenz unter stationär akutgeriatrischen Patienten > 70 Jahre",
+        "summary": "Erfassung der Sturzangstprävalenz zum Aufnahmezeitpunkt in der Akutgeriatrie und Überprüfung der Sturzangständerung im Verlauf eines akutgeriatrischen Aufenthaltes",
+        "scientificSummary": "Hintergrund:\nStürze sind im höheren Lebensalter  ein nachhaltiges Problem für Selbständigkeit und Alltagskompetenz. Sturzangst schränkt die Mobilität der betroffenen Patienten ein und eröffnet einen Circulus vitiosus in Bezug auf immobilitätsbedingten weiteren Muskelkraftabbau, Zunahme von Gangunsicherheit, Zunahme von Sturzangst und dadurch weitere Mobilitätsbeschränkung.  Eine Erfassung der Sturzangst ist durch das etablierte Screeningtool falls efficacy scale-international version (FES-I) möglich, bisher jedoch noch kein fester Bestandteil des comprehensive geriatric assessment (CGA). Auch ist bis heute unklar ob sich eine akutgeriatrsiche Komplexbehandlung (GKB) auf das Ausmass der Sturzangst auswirkt  Es gibt jedoch  Hinweise darauf, dass ergotherapeutische Ansätze einen sturzangstreduzierenden Effekt aufweisen. Vor diesem Hintergrund ist es von Interesse eine mögliche Einflussnahme einer GKB auf durch FES-I eine dokumentierte Sturzangst zu untersuchen  \nMethodik:\nIm Rahmen der geplanten Studie soll die Sturzangstprävalenz zum Aufnahmezeitpunkt in dei Geriatrie bei insgesamt 500 stationär akutgeriatrischen Patienten in einem Rekrutierungszeitraum von 3 Monaten erfasst werden. Bei Patienten mit dokumentierter Sturzangst wird dann vor Entlassung der FES-I noch einmal erhoben um eine mögliche Einflussnahme durch die GKB untersuchen zu können\nStudienziele: \nHauptziel:  Erfassung der Sturzangstprävalenz bei stationär akutgeriatrischen Patienten > 70 Jahre \nNebenziele: 1.\tEntwicklung der Sturzangst nach abgeschlossener GKB  bei Patienten, die bei Aufnahme in die Geriatrie Sturzangst zeigten \n2.\tAssoziation der Sturzangst mit Sturzursache, Medikation, Vorerkrankungen und mit Änderung der Assessmentergebnisse \n\n"
+      },
+      {
+        "idLocale": {
+          "locale": "en"
+        },
+        "acronym": "Sturzangst_2016",
+        "title": "Prevalence of fear of falling (FOF) among geriatric inpatients > 70 years ",
+        "summary": "Analysis of prevalence fear of falling among geriatric inpatients and impact of geriatric treatment on fear of falling",
+        "scientificSummary": "Background: Falls are a serious and frequent problem for aged persons with a negative impact on activity of daily living. There is a vicious circle between fear of falling (FOF), falls resulting in reduced mobility, loss of muscle volume and associated immobility, thus increasing falls and fear of falling. Fear of falling can be assessed by the established and validated falls efficacy scale - international version (FES-I), but this is not routinely done, yet. The impact of geriatric treatment on FOF is also still unknown. Some studies underlined the effect of occupational therapy, which is part of the geriatric treatment. Therefore analysis of a potential impact of geriatric treatment on FOF is of interest.\nMethods: \nFOF based on FES-I is assessed among geriatric inpatients > 70 years at admission to geriatric ward. In patients with documented FOF, the FES-I is also applied before discharge to evaluate a potential impact of geriatric treatment on FOF;\nprimary objective of the study: prevalence of FOF among geriatric inpatients > 70 years \nsecondary objectives of the study: 1. change of FOF during geriatric treatment; 2. association between FOF and cause of falling, medication, comorbidities and elements of the comprehensive geriatric assessment.  "
+      }
+    ],
+    "observationalGroups": [
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "de"
+        },
+        "comment": "Sturznagst wird erfasst unter akutgeriatrsichen Patienten > 70 Jahre basierend auf dem FES-I (falls efficacy scale-international version)"
+      },
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "en"
+        },
+        "comment": "Fear of falling is assessed based FES-I amnong geriatric in-patients > 70 years\n"
+      }
+    ],
+    "trialContacts": [
+      {
+        "idContactIdType": {
+          "type": "PRIMARY_SPONSOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Herderstrasse 52",
+          "city": "Köln",
+          "zip": "50937",
+          "country": "DE",
+          "email": "gabriele.roehrig@uk-koeln.de",
+          "fax": "0221 478 86710",
+          "firstName": "Gabriele",
+          "lastName": "Röhrig",
+          "phone": "0221 478 86704",
+          "title": "Dr. med.",
+          "url": "https://nephrologie.uk-koeln.de/lehre/schwerpunkt-klinische-altersforschung/",
+          "affiliation": "Schwerpunkt Klinische AltersforschungKlinik II Innere MedizinUniklinik Köln"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PRINCIPAL_COORDINATING_INVESTIGATOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Herderstrasse 52",
+          "city": "Köln",
+          "zip": "50937",
+          "country": "DE",
+          "email": "gabriele.roehrig@uk-koeln.de",
+          "fax": "0221 478 86710",
+          "firstName": "Gabriele",
+          "lastName": "Röhrig",
+          "phone": "0221 478 86704",
+          "title": "Dr. med.",
+          "url": "https://nephrologie.uk-koeln.de/lehre/schwerpunkt-klinische-altersforschung/",
+          "affiliation": "Schwerpunkt Klinische AltersforschungKlinik II Innere MedizinUniklinik Köln"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PUBLIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Herderstrasse 52",
+          "city": "Köln",
+          "zip": "50937",
+          "country": "DE",
+          "email": "gabriele.roehrig@uk-koeln.de",
+          "fax": "0221 478 86710",
+          "firstName": "Gabriele",
+          "lastName": "Röhrig",
+          "phone": "0221 478 86704",
+          "title": "Dr. med.",
+          "url": "https://nephrologie.uk-koeln.de/lehre/schwerpunkt-klinische-altersforschung/",
+          "affiliation": "Schwerpunkt Klinische AltersforschungKlinik II Innere MedizinUniklinik Köln"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "SCIENTIFIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Herderstrasse 52",
+          "city": "Köln",
+          "zip": "50937",
+          "country": "DE",
+          "email": "gabriele.roehrig@uk-koeln.de",
+          "fax": "0221 478 86710",
+          "firstName": "Gabriele",
+          "lastName": "Röhrig",
+          "phone": "0221 478 86704",
+          "title": "Dr. med.",
+          "url": "https://nephrologie.uk-koeln.de/lehre/schwerpunkt-klinische-altersforschung/",
+          "affiliation": "Schwerpunkt Klinische AltersforschungKlinik II Innere MedizinUniklinik Köln"
+        }
+      }
+    ],
+    "materialSupports": [
+      {
+        "contact": {
+          "streetAndNo": "Herderstrasse 52, 4.OG",
+          "city": "Köln",
+          "zip": "50931",
+          "country": "DE",
+          "email": "gabriele.roehrig@uk-koeln.de",
+          "fax": "0221-1629-2306",
+          "firstName": null,
+          "lastName": null,
+          "phone": "0221-478-86704",
+          "title": null,
+          "url": "https://nephrologie.uk-koeln.de/lehre/schwerpunkt-klinische-altersforschung",
+          "affiliation": "Schwerpunkt Klinische Altersforschung, Klinik II für Innere Medizin der UKK und Klinik für Geriatrie am St.Marien Hospital"
+        },
+        "type": "INSTITUTIONAL"
+      }
+    ],
+    "studyCharacteristic": {
+      "type": "NON_INTERVENTIONAL",
+      "allocation": null,
+      "assignment": null,
+      "blindingType": null,
+      "blindingWhoList": [],
+      "controlTypes": [],
+      "phase": null,
+      "purpose": "SCREENING",
+      "typeNonInterventional": null,
+      "characteristicDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "primaryOutcome": "Prävalenz der Sturzangst unter stationär akutgeriatrsichen  Patienten > 70 Jahre",
+          "secondaryOutcome": "1.Entwicklung der Sturzangst nach abgeschlossener GKB (akutgeriatrsiche Komplexbehandlung)  bei Patienten, die bei Aufnahme in die Geriatrie Sturzangst zeigten \n2.Assoziation der Sturzangst mit Sturzursache, Medikation, Vorerkrankungen und mit Änderung der Assessmentergebnisse \n",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "primaryOutcome": "Prevalence of fear of falling among geriatric in-patients > 70 years",
+          "secondaryOutcome": "1. change of FOF during geriatric treatment; 2. association between FOF and cause of falling, medication, comorbidities and elements of the comprehensive geriatric assessment.  ",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        }
+      ],
+      "timing": null,
+      "duration": null
+    },
+    "trialResults": {
+      "ipdSharingPlan": null,
+      "trialResultsDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "ipdSharingPlanDescription": null,
+          "briefSummaryOfResultsDescription": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "ipdSharingPlanDescription": null,
+          "briefSummaryOfResultsDescription": null
+        }
+      ],
+      "plannedPublication": null,
+      "firstPublication": null,
+      "firstResultPublication": null,
+      "publications": [],
+      "relatedDrksTrials": []
+    },
+    "secondaryIds": {
+      "otherPrimaryRegisterId": null,
+      "otherPrimaryRegisterName": null,
+      "universalTrialNumber": null,
+      "eudraCtNumber": null,
+      "eudamedNumber": null,
+      "noOtherIdentificationNumbersAvailable": true
+    },
+    "otherSecondaryIds": [],
+    "studiedHealthConditions": [
+      {
+        "type": "MAIN",
+        "catalog": "FREETEXT",
+        "code": null,
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Sturzangst"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Fear of falling"
+          }
+        ]
+      },
+      {
+        "type": "OTHER",
+        "catalog": "FREETEXT",
+        "code": null,
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Änderung Sturzangst"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "change of fear of falling"
+          }
+        ]
+      }
+    ],
+    "recruitment": {
+      "institutes": [
+        {
+          "type": "MEDICAL_CENTER",
+          "name": "Klinik für Geriatrie am St. Marien-Hospital",
+          "city": "Köln"
+        }
+      ],
+      "countries": [
+        {
+          "idCountry": {
+            "code": "DE"
+          }
+        }
+      ],
+      "centricType": "MONOCENTRIC",
+      "gender": "ALL",
+      "minimumAge": {
+        "amount": 70,
+        "unit": "YEARS"
+      },
+      "maximumAge": {
+        "amount": 120,
+        "unit": "YEARS"
+      },
+      "totalParticipants": null,
+      "plannedParticipants": 500,
+      "status": "RECRUITING",
+      "recruitmentDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "Ausschlusskriterien:\n•Teilnahme an einer anderen Studie \n•Fehlendes schriftliches Einverständnis\n•Alter < 70 Jahre\n",
+          "inclusionCriteria": "Einschlusskriterien:\n•Schriftliches Einverständnis\n•In stationär geriatrischer Behandlung befindlich\n•Alter > 70 Jahre\n"
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "participation in other study\nage <70 years\nno written informed consent",
+          "inclusionCriteria": "written informed consent\nage >= 70 years\ngeriatric inpatient"
+        }
+      ],
+      "scheduledStartDate": "2016-10-01",
+      "scheduledCompletionDate": null,
+      "actualStartDate": "2016-11-01",
+      "actualCompletionDate": null,
+      "healthyVolunteers": null
+    },
+    "ethicsCommittee": {
+      "applicationDate": "2016-07-05",
+      "number": "16-253",
+      "ethicVotes": [
+        {
+          "dateOfVote": "2016-10-19",
+          "vote": "APPROVED",
+          "type": "ETHICS_COMMITTEE",
+          "contact": {
+            "streetAndNo": "Gleueler Str. 269",
+            "city": "Köln",
+            "zip": "50935",
+            "country": "DE",
+            "email": "gs-ek@uni-koeln.de",
+            "fax": "+40-221-478 82905",
+            "firstName": null,
+            "lastName": null,
+            "phone": "+49-221-478 82900",
+            "title": null,
+            "url": null,
+            "affiliation": "Ethikkommission der Medizinischen Fakultät der Universität zu Köln"
+          }
+        }
+      ]
+    },
+    "studyWithdrawn": null,
+    "studyWithdrawnMessage": null
+  },
+  {
+    "drksId": "DRKS00009713",
+    "trialStatus": "UPDATED",
+    "registrationDrks": "2015-12-07",
+    "registrationType": "RETROSPECTIVE",
+    "lastUpdate": "2023-06-22",
+    "sponsored": true,
+    "url": "",
+    "trialDescriptions": [
+      {
+        "idLocale": {
+          "locale": "de"
+        },
+        "acronym": "",
+        "title": "Validierung des neuen 1 Stunden Troponin-Diagnose-Algorithmus für den akuten Nicht ST-Hebungs Myokardinfarkt der European Society of Cardiology",
+        "summary": "Zum wichtigsten Kriterium für die Diagnose eines Herzinfarktes gehört neben den \r\nBeschwerden und dem Elektrokardiogramm (EKG) der Anstieg von sogenannten Infarktmarkern im Blut, die das Absterben von Herzmuskelzellen anzeigen. Zu diesen Infarktmarkern gehöret das kardiale Troponin. Der Troponinanstieg ist hochspezifisch für ein Infarktereignis, auch wenn das EKG keine typischen Anzeichen erkennen lässt. Ein Troponinanstieg ist etwa 6 Stunden nach Infarktbeginn nachweisbar, so dass bei Beschwerden bislang 2 Messungen im Abstand von 6 Stunden zum Ausschluss eines Herzinfarktes benötigt wurden.\r\nDurch die Weiterentwicklung der Troponintests über die letzten Jahre konnte deren Messgenauigkeit (Sensitivität) deutlich gesteigert werden. Diese Verbesserung ermöglicht nun einen Troponinanstieg bereits 1 Stunden nach Infarktbeginn nachzuweisen. \r\n\r\nIn den aktuellen Richtlinien zur Diagnostik eines Herzinfarktes wird aus diesem Grund nun empfohlen 2 Messungen im Abstand von nur 1 Stunde vorzunehmen.\r\n\r\nZiel dieser prospektiven Analyse ist es, den neuen 1 Stunden Troponin-Diagnose-Algorithmus für Herzinfarkte im klinischen Alltag zu überprüfen.",
+        "scientificSummary": "In der Diagnostik des akuten Myokardinfarktes stellt neben der Klinik, dem EKG und der kardialen Bildgebung das kardiale Troponin das zentrale Diagnosekriterium dar. Durch die Weiterentwicklung der Troponinassays über die letzten Jahre konnte deren Sensitivität deutlich gesteigert werden. Dies erlaubt nun auch die exakte Detektion von sehr geringen Änderungen des kardialen Troponins im Blut. \r\n\r\nDiese Verbesserung der Sensitivität ermöglicht eine Verkürzung des Abstandes zwischen zwei Troponinmessungen, die zum sicheren Nachweis bw. Ausschluss eines Myokardinfarktes benötigt werden. Es konnte gezeigt werden, dass ein Abstand von 1 bzw 3 Stunden eine vergleichbare diagnostische Genauigkeit aufweisen wie die bislang empfohlenen  mind 6 Stunden Abstand.\r\n\r\nIn den neuen 2015 Guidelines der European Society of Cardiology für akute  Nicht ST-Hebungs-Koronarsyndrome wird nun ein 1 Stunden Troponin-Diagnose-Algorithmus empfohlen.\r\n\r\nZiel dieser prospektiven Analyse ist es, den neuen 1 Stunden Troponin-Diagnose-Algorithmus für den akuten Nicht ST-Hebungs Myokardinfarkt der European Society of Cardiology im klinischen Alltag zu validieren."
+      },
+      {
+        "idLocale": {
+          "locale": "en"
+        },
+        "acronym": "",
+        "title": "Validation of the novel 1-hour rule-in and rule-out troponin algorithm for diagnosis of non-ST-elevation myocardial infarction of the European Society of Cardiology",
+        "summary": "Cardiac specific biomarkers that can be detected in the blood and that indicate necrosis of heart muscle cells are a key feature needed for the diagnosis of myocardial infarction together with clinical symptoms and the electrocardiogram. One of these biomarkers is cardiac troponin. \r\nDue to new developments in laboratory techniques, the sensitivity of troponin assays has significantly improved. This allows to detect the beginning of a myocardial infarction not only after 6 hours as with previous assays, but to detect a myocardial infarction already within 1 hour.\r\nThus, current guidelines recommend to test cardiac troponin on admission and 1 hour thereafter for diagnosis of myocardial infarction.\r\n\r\nThe aim of this prospective analysis is to validate a novel one hour troponin algorithm for diagnosis of myocardial infarction in clinical routine.\r\n",
+        "scientificSummary": "The diagnosis of acute myocardial infarction is based on cardiac troponin as the central diagnostic criterium together with the clinical assessment, the electrocardiogram (ECG) and cardiac imaging studies. Evolution of cardiac troponin assays over the last years have markly improved sensitivity allowing now to detect very small changes in cardiac troponin levels.\r\nThis improvement in sensitivity made it possible to shorten the time between two troponin measurements, which are required for detection or exclusion of myocardial infarction.\r\n\r\nThe new 2015 Guidelines of the European Society of Cardiology for acute non-ST-elevation coronary syndromes recommend a one hour troponin diagnostic algorithm.\r\n\r\nThe aim of this prospective analysis is to validate the new one hour troponin diagnostic algorithm for diagnosis of myocardial infarction in clinical routine.\r\n"
+      }
+    ],
+    "observationalGroups": [
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "de"
+        },
+        "comment": "Patienten, bei denen zum Ausschluss eines akuten Myokardinfarktes die Troponin-Bestimmung bei Erstkontakt und nach einer Stunde erforderlich ist.\r\n"
+      },
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "en"
+        },
+        "comment": "Patients presenting for rule-out of acute myocardial infarction by troponin testing at presentation and after one hour."
+      }
+    ],
+    "trialContacts": [
+      {
+        "idContactIdType": {
+          "type": "PRIMARY_SPONSOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Südring 15",
+          "city": "Bad Krozingen",
+          "zip": "79189",
+          "country": "DE",
+          "email": "willibald.hochholzer@universitaets-herzzentrum.de",
+          "fax": "+49 7633 402-2489",
+          "firstName": "Willibald",
+          "lastName": "Hochholzer",
+          "phone": "+49 7633 402-0",
+          "title": "Prof. Dr. med.",
+          "url": "www.herzzentrum.de",
+          "affiliation": "Universitäts-Herzzentrum Freiburg Bad Krozingen, Klinik für Kardiologie und Angiologie II"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PRINCIPAL_COORDINATING_INVESTIGATOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Südring 15",
+          "city": "Bad Krozingen",
+          "zip": "79189",
+          "country": "DE",
+          "email": "willibald.hochholzer@universitaets-herzzentrum.de",
+          "fax": "+49 7633 402-2489",
+          "firstName": "Willibald",
+          "lastName": "Hochholzer",
+          "phone": "+49 7633 402-0",
+          "title": "Prof. Dr. med.",
+          "url": "www.herzzentrum.de",
+          "affiliation": "Universitäts-Herzzentrum Freiburg Bad Krozingen, Klinik für Kardiologie und Angiologie II"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PUBLIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Südring 15",
+          "city": "Bad Krozingen",
+          "zip": "79189",
+          "country": "DE",
+          "email": "willibald.hochholzer@universitaets-herzzentrum.de",
+          "fax": "+49 7633 402-2489",
+          "firstName": "Willibald",
+          "lastName": "Hochholzer",
+          "phone": "+49 7633 402-0",
+          "title": "Prof. Dr. med.",
+          "url": "www.herzzentrum.de",
+          "affiliation": "Universitäts-Herzzentrum Freiburg Bad Krozingen, Klinik für Kardiologie und Angiologie II"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "SCIENTIFIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Südring 15",
+          "city": "Bad Krozingen",
+          "zip": "79189",
+          "country": "DE",
+          "email": "willibald.hochholzer@universitaets-herzzentrum.de",
+          "fax": "+49 7633 402-2489",
+          "firstName": "Willibald",
+          "lastName": "Hochholzer",
+          "phone": "+49 7633 402-0",
+          "title": "Prof. Dr. med.",
+          "url": "www.herzzentrum.de",
+          "affiliation": "Universitäts-Herzzentrum Freiburg Bad Krozingen, Klinik für Kardiologie und Angiologie II"
+        }
+      }
+    ],
+    "materialSupports": [
+      {
+        "contact": {
+          "streetAndNo": "Südring 15",
+          "city": "Bad Krozingen",
+          "zip": "79189",
+          "country": "DE",
+          "email": "willibald.hochholzer@universitaets-herzzentrum.de",
+          "fax": "+49 7633 402-2489",
+          "firstName": null,
+          "lastName": null,
+          "phone": "+49 7633 402-0",
+          "title": null,
+          "url": "www.herzzentrum.de",
+          "affiliation": "Universitäts-Herzzentrum Freiburg Bad Krozingen, Klinik für Kardiologie und Angiologie II"
+        },
+        "type": "PUBLIC_FUNDING"
+      }
+    ],
+    "studyCharacteristic": {
+      "type": "NON_INTERVENTIONAL",
+      "allocation": null,
+      "assignment": null,
+      "blindingType": null,
+      "blindingWhoList": [],
+      "controlTypes": [],
+      "phase": null,
+      "purpose": "DIAGNOSTIC",
+      "typeNonInterventional": null,
+      "characteristicDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "primaryOutcome": "Diagnose eines akuten Myokardinfarktes gemäss Universal Definition of Myocardial Infarction \r\nZentrale Kriterien:\r\nNachweis von Anstieg und/oder Abfall der Konzentration eines kardialen\r\nBiomarkers (kardiales Troponin) zusammen mit Zeichen für Ischämie: entweder klinische Symptome einer Ischämie oder neue oder mutmaßlich neue ST-Strecken-T-Wellen (ST-T)-Veränderungen oder neuer Linksschenkelblock (LSB) im 12-Kanal-EKG oder Hinweis für einen neu aufgetretenen Verlust von vitalem Myokard oder für\r\nneu aufgetretene regionale Wandbewegungsstörungen in der Bildgebung oder Nachweis eines intrakoronaren Thrombus durch Angiographie.",
+          "secondaryOutcome": "Indikationsstellung für koronare Revaskularisation anhand der Ergebnisse der Koronarangiographie bzw. der klinischen Einschätzung ",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "primaryOutcome": "Diagnosis of acute myocardial infarction according to Universal Definition of Myocardial Infarction:\r\nDetection of a rise and/or fall of cardiac biomarker values, (cardiac troponin) together with signs of ischaemia: clinical symptoms of ischaemia or new or presumed new significant ST-T wave changes or left bundle branch block on 12-lead ECG/development of pathological Q waves on ECG or imaging studies showing new or presumed new loss of viable myocardium or regional wall motion abnormality or intracoronary thrombus detected by angiography.",
+          "secondaryOutcome": "indication for coronary revascularization based on results of coronary angiography or clinical judgement.",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        }
+      ],
+      "timing": null,
+      "duration": null
+    },
+    "trialResults": {
+      "ipdSharingPlan": false,
+      "trialResultsDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "ipdSharingPlanDescription": "",
+          "briefSummaryOfResultsDescription": ""
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "ipdSharingPlanDescription": "",
+          "briefSummaryOfResultsDescription": ""
+        }
+      ],
+      "plannedPublication": "",
+      "firstPublication": "2019-11-07",
+      "firstResultPublication": "2020-11-09",
+      "publications": [
+        {
+          "description": "Amann M, Gaiser F, Schwenk SI et al. Evaluation of a 1-hour troponin algorithm for diagnosing myocardial infarction in high-risk patients admitted to a chest pain unit: the prospective FAST-MI cohort study. BMJ open. 2019 Nov 7;9(11):e032124.",
+          "link": "http://dx.doi.org/10.1136/bmjopen-2019-032124",
+          "type": "RESULT",
+          "document": null
+        }
+      ],
+      "relatedDrksTrials": []
+    },
+    "secondaryIds": {
+      "otherPrimaryRegisterId": null,
+      "otherPrimaryRegisterName": null,
+      "universalTrialNumber": null,
+      "eudraCtNumber": null,
+      "eudamedNumber": null,
+      "noOtherIdentificationNumbersAvailable": true
+    },
+    "otherSecondaryIds": [],
+    "studiedHealthConditions": [
+      {
+        "type": "MAIN",
+        "catalog": "ICD10",
+        "code": "I21",
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Akuter Myokardinfarkt"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Acute myocardial infarction"
+          }
+        ]
+      }
+    ],
+    "recruitment": {
+      "institutes": [
+        {
+          "type": "UNI_MEDICAL_CENTER",
+          "name": "Universität-Herzzentrum Freiburg - Bad Krozingen",
+          "city": "Bad Krozingen"
+        }
+      ],
+      "countries": [
+        {
+          "idCountry": {
+            "code": "DE"
+          }
+        }
+      ],
+      "centricType": "MONOCENTRIC",
+      "gender": "ALL",
+      "minimumAge": {
+        "amount": 18,
+        "unit": "YEARS"
+      },
+      "maximumAge": {
+        "amount": null,
+        "unit": "NO_MAX_AGE"
+      },
+      "totalParticipants": 1802,
+      "plannedParticipants": 2000,
+      "status": "COMPLETE_FOLLOW_UP_COMPLETE",
+      "recruitmentDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "- Fehlende Troponinmessung nach 1 Stunde\r\n- Thorakale Beschwerden die länger als 24 Stunden zurückliegen\r\n",
+          "inclusionCriteria": "Ausschluss eines akuten Myokardinfarktes erforderlich wegen:\r\n- akut aufgetretenen oder innerhalb der letzten 24 Stunden sich verändernden thorakalen Beschwerden, die als Angina pectoris oder einer equivalenten Symptomatik eingestuft werden können\r\n- neu oder vermutlich neu aufgetretenen ischämie-verdächtigen EKG-Veränderungen\r\n- neu oder vermutlich neu aufgetretenen ischämie-verdächtigen Veränderungen bei der Bildgebung\r\n- verfügbare Troponinbestimmung bei Erstkontakt, sowie nach 1 h "
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "- missing troponin results after 1 hour\r\n- chest pain lasting longer than 24 hours ",
+          "inclusionCriteria": "Patients needing a rule-out of acute myocardial infarction due to:\r\n- acute chest pain or other symptoms equivalent with acute chest pain within the last 24 hours\r\n- new or presumably new ischaemic ECG changes\r\n- new or presumably new signs of ischaemia in imaging studies\r\n- available high-sensitivity cardiac troponin results at presentation and after 1 hour"
+        }
+      ],
+      "scheduledStartDate": null,
+      "scheduledCompletionDate": null,
+      "actualStartDate": "2015-11-02",
+      "actualCompletionDate": "2017-12-20",
+      "healthyVolunteers": null
+    },
+    "ethicsCommittee": {
+      "applicationDate": "2015-10-27",
+      "number": "499/15",
+      "ethicVotes": [
+        {
+          "dateOfVote": "2015-11-02",
+          "vote": "APPROVED",
+          "type": "ETHICS_COMMITTEE",
+          "contact": {
+            "streetAndNo": "Engelberger Str. 21",
+            "city": "Freiburg",
+            "zip": "79106",
+            "country": "DE",
+            "email": "ekfr.mpg@uniklinik-freiburg.de",
+            "fax": "+49-761-27072630",
+            "firstName": null,
+            "lastName": null,
+            "phone": "+49-761-27072600",
+            "title": null,
+            "url": null,
+            "affiliation": "Ethik-Kommission der Albert-Ludwigs-Universität Freiburg"
+          }
+        }
+      ]
+    },
+    "studyWithdrawn": false,
+    "studyWithdrawnMessage": null
+  },
+  {
+    "drksId": "DRKS00009714",
+    "trialStatus": "UPDATED",
+    "registrationDrks": "2015-11-26",
+    "registrationType": "RETROSPECTIVE",
+    "lastUpdate": "2024-03-07",
+    "sponsored": true,
+    "url": "",
+    "trialDescriptions": [
+      {
+        "idLocale": {
+          "locale": "de"
+        },
+        "acronym": "",
+        "title": "Klinische Studie zur Untersuchung des Gangbildes unter Anwendung der OA Nano Knieorthese bei Patienten mit Gonarthrose. ",
+        "summary": "Durch die chronische Abnützung im Kniegelenk zeigen die Patienten schmerzbedingt eine eingeschränkte Gehfähigkeit mit Schonhaltung, in erster Linie wird die mediale Gelenkfläche im Knie fehl- bzw. überbelastet.  Diese Fehlbelastung wirkt sich negativ auf das Gangbild der betroffenen Person aus. Mit Hilfe der markerbasierten Ganganalyse und zwei im Boden eingelassenen Kraftmessplatten kann das Gangbild unter kinetischen (Gelenkkräfte) und kinematischen (Gelenkwinkel) Gesichtspunkten untersucht werden. Des Weiteren kann über ein zusätzliches System zur  Messung der  Druckverteilung (Pedobarographie) der Verlauf der Ganglinie und die Belastungsverteilung am Fuß gemessen werden.\r\n\r\nEine neue Orthese der Fa. DJO für das Kniegelenk soll durch einen Vorschub der medialen Gelenkfläche die Schmerzen der Patienten reduzieren und somit das Gangbild deutlich verbessern.\r\n\r\nHypothese: Durch das Anlegen der Orthese OA Nano bei symptomatischer Gonarthrose verbessert sich das Gangbild und die Schmerzintensität wird reduziert.",
+        "scientificSummary": "Klinische Studie bei Patientinnen und Patienten mit chronischer medialer Gonarthrose werden mit einer OA Nano Knieorthese versorgt. Unterschiede im Gangbild werden mittels Vergleich einer Untersuchung mit Orthese und einer Untersuchung ohne Orthese im Ganglabor gemessen. Primärer Zielparameter ist der Kniegelenkswinkel."
+      },
+      {
+        "idLocale": {
+          "locale": "en"
+        },
+        "acronym": "",
+        "title": "Clinical Trial to Assess Gait Parameters  in Patients with chronic Gonarthritis using OS Nano Knee Brace ",
+        "summary": "Patients with chronic arthritis of the knee show limited walking abilities and relieving posture due to pain, primarily the medial joint surface is overburdened,\r\nDue to this misload the walking parameters of the persons involved are negatively influenced. With the help of gait analysis by marker videoanalysis and pressure measurement by floor panels the gait parameters can be assessed regarding joint forces and angles. The system for measurement of pressure (pedobarography) identifies the pressure distribution of the foot and the gait line.\r\nThe new brace of DJO for the knee joint should reduce the pain by feeding of the medial joint surface and improve the gait parameters.\r\n\r\nHypothesis: Wearing OA Nano knee brace improves gait parameters and reduces pain in patients  with chronic arthritis of the knee . ",
+        "scientificSummary": "Clinical Trial in patients with chronic medial gonarthritis receive OA Nano knee brace. Differences in gait parameters  are assessed in a gait laboratory with and without wearing the brace. Primary objective is the joint angle."
+      }
+    ],
+    "observationalGroups": [
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "de"
+        },
+        "comment": "Patienten mit chronischer medialer Gonarthrose werden mit einer Kniegelenksorthese versorgt, die durch einen Vorschub der Gelenkfläche für Entlastung sorgt. Nach 14 Tagen werden die Parameter Belastung, Gelenkwinkel, Druckverteilung an der Fußsohle und Schmerz mit und ohne Orthese untersucht."
+      },
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "en"
+        },
+        "comment": "Patiens with chronic medial gonarthritis receive a knee joint brace causing feed of joint surface and reduce load. After 14 days the gait parameters forces and angles of the joint and pressure distribution of the foot are assessed with and without wearing the brace."
+      }
+    ],
+    "trialContacts": [
+      {
+        "idContactIdType": {
+          "type": "PRIMARY_SPONSOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Professor Küntscher Str. 8",
+          "city": "Murnau",
+          "zip": "82418",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Berufsgenossenschaftliche Unfallklinik Murnau"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PUBLIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Professor Küntscher Str. 8",
+          "city": "Murnau",
+          "zip": "82418",
+          "country": "DE",
+          "email": "andreas.brandt@bgu-murnau.de",
+          "fax": "08841 4573",
+          "firstName": "Andreas",
+          "lastName": "Brand",
+          "phone": "08841 4566",
+          "title": null,
+          "url": null,
+          "affiliation": "Berufsgenossenschaftliche Unfallklinik Murnau"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PRINCIPAL_COORDINATING_INVESTIGATOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Prof. Küntscher Str. 8",
+          "city": "Murnau",
+          "zip": "82418",
+          "country": "DE",
+          "email": "silke.keiser@bgu-murnau.de",
+          "fax": "08841 4573",
+          "firstName": "Silke",
+          "lastName": "Keiser",
+          "phone": "08841 2272",
+          "title": "Dr. med",
+          "url": null,
+          "affiliation": "Berufsgenossenschaftliche Unfallklinik Murnau"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "SCIENTIFIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Prof. Küntscher Str. 8",
+          "city": "Murnau",
+          "zip": "82418",
+          "country": "DE",
+          "email": "silke.keiser@bgu-murnau.de",
+          "fax": "08841 4573",
+          "firstName": "Silke",
+          "lastName": "Keiser",
+          "phone": "08841 2272",
+          "title": "Dr. med",
+          "url": null,
+          "affiliation": "Berufsgenossenschaftliche Unfallklinik Murnau"
+        }
+      }
+    ],
+    "materialSupports": [
+      {
+        "contact": {
+          "streetAndNo": "Merzhauserstr. 112",
+          "city": "Freiburg",
+          "zip": "79100",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Ormed GmbHDJO Global Company"
+        },
+        "type": "COMMERCIAL"
+      }
+    ],
+    "studyCharacteristic": {
+      "type": "INTERVENTIONAL",
+      "allocation": "SINGLE_ARM_STUDY",
+      "assignment": "SINGLE",
+      "blindingType": "OPEN",
+      "blindingWhoList": [],
+      "controlTypes": [
+        {
+          "idControlType": {
+            "controlType": "UNCONTROLLED_SINGLE_ARM"
+          }
+        }
+      ],
+      "phase": "N_A",
+      "purpose": "TREATMENT",
+      "typeNonInterventional": null,
+      "characteristicDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "primaryOutcome": "Kniegelenkwinkel (Kinematik) im Stehen und während des Gehens.",
+          "secondaryOutcome": "Ganglabor:\r\nKniegelenkmomente (Kinetik) im Stehen und während des Gehens\r\nKniegelenkbelastung (Bodenreaktionskräfte) im Stehen und während des Gehens\r\nWeg-Zeit Parameter (Ganggeschwindigkeit, Schrittlänge, Spurbreite, Limb Index)\r\nDruckverteilung und Ganglinienverlauf (Center of Pressure) im Stehen und während des Gehens \r\nKlinik:\r\nSchmerzintensität\r\n",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "primaryOutcome": "Walking and Standing knee joint angle ",
+          "secondaryOutcome": "Gait lab: knee joint moment standing and Walking, knee joint load, parameters of distance and time (Speed, length of step, width of step, limb index) pressure distribution and  Center.\r\nClinic: Pain Intensitiy",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        }
+      ],
+      "timing": null,
+      "duration": null
+    },
+    "trialResults": {
+      "ipdSharingPlan": false,
+      "trialResultsDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "ipdSharingPlanDescription": "",
+          "briefSummaryOfResultsDescription": ""
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "ipdSharingPlanDescription": "",
+          "briefSummaryOfResultsDescription": ""
+        }
+      ],
+      "plannedPublication": "",
+      "firstPublication": "2017-04-19",
+      "firstResultPublication": "2017-05-31",
+      "publications": [
+        {
+          "description": "Brand, Andreas, Isabella Klöpfer-Krämer, Mario Morgenstern, Inga Kröger, Björn Michel, Andreas Thannheimer, Janina Anna Müßig, and Peter Augat. “Effects of Knee Orthosis Adjustment on Biomechanical Performance and Clinical Outcome in Patients with Medial Knee Osteoarthritis.” Prosthetics and Orthotics International 41, no. 6 (December 2017): 587–94. https://doi.org/10.1177/0309364617691623.",
+          "link": "https://doi.org/10.1177/0309364617691623",
+          "type": "RESULT",
+          "document": null
+        }
+      ],
+      "relatedDrksTrials": []
+    },
+    "secondaryIds": {
+      "otherPrimaryRegisterId": null,
+      "otherPrimaryRegisterName": null,
+      "universalTrialNumber": null,
+      "eudraCtNumber": null,
+      "eudamedNumber": null,
+      "noOtherIdentificationNumbersAvailable": true
+    },
+    "otherSecondaryIds": [],
+    "studiedHealthConditions": [
+      {
+        "type": "MAIN",
+        "catalog": "ICD10",
+        "code": "M17",
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Gonarthrose [Arthrose des Kniegelenkes]"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Gonarthrosis [arthrosis of knee]"
+          }
+        ]
+      }
+    ],
+    "recruitment": {
+      "institutes": [
+        {
+          "type": "MEDICAL_CENTER",
+          "name": "BG Klinikum",
+          "city": "Murnau"
+        }
+      ],
+      "countries": [
+        {
+          "idCountry": {
+            "code": "DE"
+          }
+        }
+      ],
+      "centricType": "MONOCENTRIC",
+      "gender": "ALL",
+      "minimumAge": {
+        "amount": 40,
+        "unit": "YEARS"
+      },
+      "maximumAge": {
+        "amount": 70,
+        "unit": "YEARS"
+      },
+      "totalParticipants": 22,
+      "plannedParticipants": 20,
+      "status": "COMPLETE_FOLLOW_UP_COMPLETE",
+      "recruitmentDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "Andere Erkrankungen, die die Gehfähigkeit beeinflussen\r\nAkuter Gelenkerguss\r\nAndere Erkrankung des Gelenkes (ausgenommen Begleiterkrankungen der Arthrose z.B: am Meniskus) \r\nBestehende Kontraindikation für das Tragen der Orthese (z.B. Hauterkrankung, Infektion, Diabetes)\r\nNutzung einer anderen Orthese\r\n",
+          "inclusionCriteria": "•\tAlter: 40-70 Jahre\r\n•\tGrad des Knorpelschadens nach Kellgren & Lawrence Score Grad II-III\r\n•\tIndex der Arthroseschwere gemäß Score nach Lequesne1 >10 Punkte\r\n•\tSchmerzintensität im Visual Analoge Scale > 40 mm\r\n•\tPatient ist in der Lage das Studienprojekt zu verstehen und gibt sein freiwilliges Einverständnis\r\n"
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "Other gait disturbances, acute joint effusion, other joint disorders except concomittant disorders of arthritis e.g. meniscus disorder, contraindication for brace (Skin disorder, infection, Diabetes), use of other brace",
+          "inclusionCriteria": "Age 40-70 years, cartilage damage II-III according to Kellgren & Lawrence, intensity of arthritis >10 scorepoints according to Lequesne\r\npain intensitiy VAS Scale > 40 mm, Patient can understand the Project and gives informed consent"
+        }
+      ],
+      "scheduledStartDate": null,
+      "scheduledCompletionDate": null,
+      "actualStartDate": "2013-03-06",
+      "actualCompletionDate": "2015-03-03",
+      "healthyVolunteers": null
+    },
+    "ethicsCommittee": {
+      "applicationDate": "2012-08-16",
+      "number": "12103",
+      "ethicVotes": [
+        {
+          "dateOfVote": "2012-11-29",
+          "vote": "APPROVED",
+          "type": "ETHICS_COMMITTEE",
+          "contact": {
+            "streetAndNo": "Mühlbaurstr. 16",
+            "city": "München",
+            "zip": "81677",
+            "country": "DE",
+            "email": "ethikkommission@blaek.de",
+            "fax": "+49-89-4147334",
+            "firstName": null,
+            "lastName": null,
+            "phone": "+49-89-4147165",
+            "title": null,
+            "url": null,
+            "affiliation": "Ethik-Kommission der Bayerischen Landesärztekammer"
+          }
+        }
+      ]
+    },
+    "studyWithdrawn": false,
+    "studyWithdrawnMessage": null
+  },
+  {
+    "drksId": "DRKS00009716",
+    "trialStatus": "UPDATED",
+    "registrationDrks": "2015-12-07",
+    "registrationType": "RETROSPECTIVE",
+    "lastUpdate": "2017-06-08",
+    "sponsored": true,
+    "url": "-",
+    "trialDescriptions": [
+      {
+        "idLocale": {
+          "locale": "de"
+        },
+        "acronym": null,
+        "title": "Klinische und radiologische 10-Jahres-Ergebnisse mitsamt Standzeit nach Knie-TEP-Primärimplantation - ein Vergleich zwischen navigierter und konventioneller Implantationstechnik",
+        "summary": "Kontrolle und Vergleich der medizinischen Ergebnisse 10 Jahre nach navigierter und konventioneller Knie-TEP-Implantation. Es soll ermittelt werden, ob eines der beiden Verfahren (navigiert/konventionell) Vorteile bietet hinsichtlich Patientenzufriedenheit und Standzeit der Implantate.",
+        "scientificSummary": "Vergleich der klinischen und radiologischen Ergebnisse mitsamt der Standzeit zwischen navigierter und konventioneller Knie-TEP-Implantation."
+      },
+      {
+        "idLocale": {
+          "locale": "en"
+        },
+        "acronym": null,
+        "title": "Clinical, radiological and survivorship-results 10 years after total knee arthroplasty  - a comparison between navigated and conventional technique.",
+        "summary": null,
+        "scientificSummary": "Analysis of clinical and radiological results including implant survivorship 10 years after navigated and conventional total knee arthroplasty"
+      }
+    ],
+    "observationalGroups": [
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "de"
+        },
+        "comment": "Navigierte Knie-TEP-Implantation"
+      },
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "en"
+        },
+        "comment": "navigated total knee arthroplasty"
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "de"
+        },
+        "comment": "konventionelle Knie-TEP-Implantation"
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "en"
+        },
+        "comment": "conventional total knee arthroplasty"
+      }
+    ],
+    "trialContacts": [
+      {
+        "idContactIdType": {
+          "type": "PRIMARY_SPONSOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Kaiser-Karl V. Allee 3",
+          "city": "Bad Abbach",
+          "zip": "93077",
+          "country": "DE",
+          "email": "joachim.grifka@ukr.de",
+          "fax": null,
+          "firstName": "Joachim",
+          "lastName": "Grifka",
+          "phone": "09405 180",
+          "title": "Prof.",
+          "url": "www.uniklinikum-regensburg.de",
+          "affiliation": "Orthopädische Klinik für die Universität Regensburg im Asklepios Klinikum Bad Abbach"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PUBLIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Franz-Josef-Strauss-Allee 11",
+          "city": "Regensburg",
+          "zip": "93053",
+          "country": "DE",
+          "email": "clemens.baier@ukr.de",
+          "fax": null,
+          "firstName": "Clemens",
+          "lastName": "Baier",
+          "phone": "0941-9440",
+          "title": "Dr. med.",
+          "url": "www.uniklinikum-regensburg.de",
+          "affiliation": "Universitätsklinikum Regensburg"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PRINCIPAL_COORDINATING_INVESTIGATOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Kaiser-Karl V. Allee 3",
+          "city": "Bad Abbach",
+          "zip": "93077",
+          "country": "DE",
+          "email": "c.baier@asklepios.com",
+          "fax": null,
+          "firstName": "Clemens",
+          "lastName": "Baier",
+          "phone": "09405 180",
+          "title": "Dr. med.",
+          "url": "www.uniklinikum-regensburg.de",
+          "affiliation": "Orthopädische Klinik für die Universität Regensburg im Asklepios Klinikum Bad Abbach"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "SCIENTIFIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Kaiser-Karl V. Allee 3",
+          "city": "Bad Abbach",
+          "zip": "93077",
+          "country": "DE",
+          "email": "c.baier@asklepios.com",
+          "fax": null,
+          "firstName": "Clemens",
+          "lastName": "Baier",
+          "phone": "09405 180",
+          "title": "Dr. med.",
+          "url": "www.uniklinikum-regensburg.de",
+          "affiliation": "Orthopädische Klinik für die Universität Regensburg im Asklepios Klinikum Bad Abbach"
+        }
+      }
+    ],
+    "materialSupports": [
+      {
+        "contact": {
+          "streetAndNo": "Kaiser-Karl V. Allee 3",
+          "city": "Bad Abbach",
+          "zip": "93077",
+          "country": "DE",
+          "email": "c.baier@asklepios.com",
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": "09405 180",
+          "title": null,
+          "url": "www.uniklinikum-regensburg.de",
+          "affiliation": "Orthopädische Klinik für die Universität Regensburg im Asklepios Klinikum Bad Abbach"
+        },
+        "type": "INSTITUTIONAL"
+      }
+    ],
+    "studyCharacteristic": {
+      "type": "INTERVENTIONAL",
+      "allocation": "NON_RANDOMIZED_CONTROLLED_TRIAL",
+      "assignment": "PARALLEL",
+      "blindingType": "BLINDED",
+      "blindingWhoList": [
+        {
+          "idBlindingWho": {
+            "blindingWho": "ASSESSOR"
+          }
+        },
+        {
+          "idBlindingWho": {
+            "blindingWho": "DATA_ANALYST"
+          }
+        }
+      ],
+      "controlTypes": [
+        {
+          "idControlType": {
+            "controlType": "ACTIVE_CONTROL"
+          }
+        }
+      ],
+      "phase": "N_A",
+      "purpose": "TREATMENT",
+      "typeNonInterventional": null,
+      "characteristicDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "primaryOutcome": "Klinische und radiologische 10-Jahres-Ergebnisse nach WOMAC Score, Knee Society Score, Knee Society (radiological) Score.",
+          "secondaryOutcome": "Operative Revision",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "primaryOutcome": "clinical and radiological Long-term results ten years after primary Intervention according to WOMAC score and Knee Society Score (including radiological score)",
+          "secondaryOutcome": "surgical revision",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        }
+      ],
+      "timing": null,
+      "duration": null
+    },
+    "trialResults": {
+      "ipdSharingPlan": null,
+      "trialResultsDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "ipdSharingPlanDescription": null,
+          "briefSummaryOfResultsDescription": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "ipdSharingPlanDescription": null,
+          "briefSummaryOfResultsDescription": null
+        }
+      ],
+      "plannedPublication": null,
+      "firstPublication": null,
+      "firstResultPublication": null,
+      "publications": [
+        {
+          "description": "Abstract",
+          "link": "https://www.ncbi.nlm.nih.gov/pubmed/28550426",
+          "type": "ABSTRACT",
+          "document": null
+        }
+      ],
+      "relatedDrksTrials": []
+    },
+    "secondaryIds": {
+      "otherPrimaryRegisterId": null,
+      "otherPrimaryRegisterName": null,
+      "universalTrialNumber": null,
+      "eudraCtNumber": null,
+      "eudamedNumber": null,
+      "noOtherIdentificationNumbersAvailable": true
+    },
+    "otherSecondaryIds": [],
+    "studiedHealthConditions": [
+      {
+        "type": "MAIN",
+        "catalog": "ICD10",
+        "code": "M17.1",
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Sonstige primäre Gonarthrose"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Other primary gonarthrosis"
+          }
+        ]
+      }
+    ],
+    "recruitment": {
+      "institutes": [
+        {
+          "type": "UNI_MEDICAL_CENTER",
+          "name": "Orthopädische Uniklinik",
+          "city": "Regensburg Bad Abbach"
+        }
+      ],
+      "countries": [
+        {
+          "idCountry": {
+            "code": "DE"
+          }
+        }
+      ],
+      "centricType": "MONOCENTRIC",
+      "gender": "ALL",
+      "minimumAge": {
+        "amount": 18,
+        "unit": "YEARS"
+      },
+      "maximumAge": {
+        "amount": 85,
+        "unit": "YEARS"
+      },
+      "totalParticipants": 350,
+      "plannedParticipants": 350,
+      "status": "COMPLETE_FOLLOW_UP_COMPLETE",
+      "recruitmentDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "schwere Varus- und Valgusdeformitäten größer 15°",
+          "inclusionCriteria": "Primäre Knie-TEP-Implantation"
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "severe varus or valgus deformity more than 15°",
+          "inclusionCriteria": "Primary total knee arthroplasty"
+        }
+      ],
+      "scheduledStartDate": null,
+      "scheduledCompletionDate": null,
+      "actualStartDate": "2013-01-15",
+      "actualCompletionDate": "2015-12-01",
+      "healthyVolunteers": null
+    },
+    "ethicsCommittee": {
+      "applicationDate": "2012-05-24",
+      "number": "12-101-0147",
+      "ethicVotes": [
+        {
+          "dateOfVote": "2012-07-04",
+          "vote": "APPROVED",
+          "type": "ETHICS_COMMITTEE",
+          "contact": {
+            "streetAndNo": "Landshuter Straße 4",
+            "city": "Regensburg",
+            "zip": "93047",
+            "country": "DE",
+            "email": "ethikkommission@ur.de",
+            "fax": "+49-941-9435369",
+            "firstName": null,
+            "lastName": null,
+            "phone": "+49-941-9435370",
+            "title": null,
+            "url": null,
+            "affiliation": "Ethikkommission der Universität Regensburg"
+          }
+        }
+      ]
+    },
+    "studyWithdrawn": null,
+    "studyWithdrawnMessage": null
+  },
+  {
+    "drksId": "DRKS00009717",
+    "trialStatus": "UPDATED",
+    "registrationDrks": "2015-11-30",
+    "registrationType": "RETROSPECTIVE",
+    "lastUpdate": "2025-01-06",
+    "sponsored": true,
+    "url": "www.deutsches-hepatitis-c-register.de",
+    "trialDescriptions": [
+      {
+        "idLocale": {
+          "locale": "de"
+        },
+        "acronym": "DHC-R",
+        "title": "Deutsches Hepatitis C-Register",
+        "summary": "Für die Optimierung der Therapie der Hepatitis C unter Verwendung der aktuellen und der kommenden Medikamente sind mehr Daten erforderlich, als sich aus den zulassungsrelevanten Studien ergeben. Die Deutsche Leberstiftung hat sich daher mit der dafür gegründeten Leberstiftungs-GmbH Deutschland entschlossen, in Kooperation mit dem Berufsverband der Niedergelassenen Gastroenterologen Deutschlands e.V. (bng) das Deutsche Hepatitis-C-Register zu führen. In diesem Register können zukünftig alle Therapieformen der Hepatitis C aufgenommen werden. Mit den so gewonnenen wissenschaftlichen Erkenntnissen kann die Versorgung der Patienten, die an einer Hepatitis C Virusinfektion erkrankt sind, enorm verbessert werden.\r\n",
+        "scientificSummary": "Für die Optimierung der Therapie der Hepatitis C unter Verwendung der aktuellen und der kommenden Medikamente sind mehr Daten erforderlich, als sich aus den zulassungsrelevanten Studien ergeben.\r\nDie Deutsche Leberstiftung hat sich mit der dafür gegründeten Leberstiftungs-GmbH Deutschland entschlossen, in Kooperation mit dem Berufsverband der niedergelassenen Gastroenterologen Deutschlands e. V. (bng) das „Deutsche Hepatitis C-Register“ (DHC-R) durchzuführen. Dabei kann die Stiftung auf ein bereits etabliertes Register (PAN – Peginterferon alfa-2a nicht-interventionelle Studie) mit etwa 40.000 Patienten zurückgreifen. Ziel ist es, weitere 15.000 behandelte Patienten und bis zu 5.000 neue unbehandelte Patienten, die einmal jährlich nachbeobachtet werden, in dem Register zu\r\ndokumentieren. Im neuen Register können alle Formen der Hepatitis C-Therapie aufgenommen werden. Dies ist auch für Medikamente vorgesehen, die momentan noch nicht zugelassen sind, sodass das Register jeweils unmittelbar nach Zulassung erweitert werden kann. Das DHC-R ist weltweit eines der größten prospektiven Register zur Dokumentation der neuen Therapien und ermöglicht durch die Nutzung der bereits vorhandenen Datensätze auch eine breite retrospektive wissenschaftliche Auswertung. Damit bietet das Register eine einmalige Quelle für wissenschaftliche Veröffentlichungen zu allen Hepatitis C-Therapien. Mit den so gewonnenen wissenschaftlichen Erkenntnissen kann die Versorgung der Patienten, die an einer Hepatitis C Virusinfektion erkrankt sind, enorm verbessert werden. Die Dokumentation vieler Hepatitis C Behandlungen mit den neuen antiviralen Interferon-freien Therapien in Praxen und Kliniken, also im „Real World“-Setting, bietet außerdem eine gute Basis für die Untersuchung der Wirtschaftlichkeit dieser Therapien.\r\n"
+      },
+      {
+        "idLocale": {
+          "locale": "en"
+        },
+        "acronym": "DHC-R",
+        "title": "German Hepatitis C-Registry (DHC-R)",
+        "summary": "For the optimzation of hepatitis c treatment with current and future treatment regimens more data are required as are available from pievotal studies. Thus, the German Hepatitis C-Registry (DHC-R) was founded. The registry aims to collect data on all available treatment regimens. Thus, more scientific findings will be generated. Those data will help to improve treatment of patients with hepatitis c.",
+        "scientificSummary": "For the optimzation of hepatitis c treatment with current and future treatment regimens more data are required as are available from pievotal studies.\r\nThus, the German Hepatitis C-Registry (DHC-R) was founded. This prospective registry is one of the biggest registries aiming at collecting data on all available treatment regimens for a hepatitis c infection. This also includes regimens which are not yet approved. Thus, the registry can be extended immediately after approval of a new drug.\r\nThe registry can use data from approximately 40,000 patients already documented in the PAN registry (PAN - Peginterferon alfa-2a non-interventional study). The main object of the DHC-R is to add another 15,000 treated patients and 5,000 non-treated patients. The latter being followed up once a year.\r\nWith this broad database more scientific findings will be generated which will help to improve treatment of patients with hepatitis c.\r\nAs treatments with new direct antiviral agents are documented in private practices and hospitals within a real-world setting the efficiency of these new therapies can be analysed."
+      }
+    ],
+    "observationalGroups": [
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "de"
+        },
+        "comment": "Behandlung von Patienten mit chronischer Hepatitis C Infektion\r\n\r\nDokumentation von Werten aus der Standarddiagnostik, dem Lebensqualitätsfragebogen (SF36) und von (schwerwiegenden) unerwünschten Ereignissen."
+      },
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "en"
+        },
+        "comment": "Treatment of patients with cronic hepatitis c infection.\r\n\r\nDocumentation of parameters from standard diagnostics, quality of life questionnaire (SF36) and (serious) adverse events.\r\n\r\n"
+      }
+    ],
+    "trialContacts": [
+      {
+        "idContactIdType": {
+          "type": "PRIMARY_SPONSOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Carl-Neuberg-Str. 1",
+          "city": "Hannover",
+          "zip": "30625",
+          "country": "DE",
+          "email": "info@leberstiftungs-gmbh.de",
+          "fax": "0511532166968",
+          "firstName": "Heiner",
+          "lastName": "Wedemeyer",
+          "phone": "05115326968",
+          "title": "Prof. Dr.",
+          "url": "http://www.leberstiftungs-gmbh.de/",
+          "affiliation": "Leberstiftungs-GmbH Deutschland"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PUBLIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Carl-Neuberg-Str. 1",
+          "city": "Hannover",
+          "zip": "30625",
+          "country": "DE",
+          "email": "info@leberstiftungs-gmbh.de",
+          "fax": null,
+          "firstName": "Yvonne",
+          "lastName": "Serfert",
+          "phone": "05115326968",
+          "title": "Dr.",
+          "url": null,
+          "affiliation": "Leberstiftungs-GmbH Deutschland"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PRINCIPAL_COORDINATING_INVESTIGATOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Wiescherstraße 20",
+          "city": "Herne",
+          "zip": "44623",
+          "country": "DE",
+          "email": "hueppe.herne@t-online.de",
+          "fax": null,
+          "firstName": "Dietrich",
+          "lastName": "Hüppe",
+          "phone": "02323 – 946 220",
+          "title": "Dr.",
+          "url": null,
+          "affiliation": "Hepatologische Schwerpunktpraxis Herne"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "SCIENTIFIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Wiescherstraße 20",
+          "city": "Herne",
+          "zip": "44623",
+          "country": "DE",
+          "email": "hueppe.herne@t-online.de",
+          "fax": null,
+          "firstName": "Dietrich",
+          "lastName": "Hüppe",
+          "phone": "02323 – 946 220",
+          "title": "Dr.",
+          "url": null,
+          "affiliation": "Hepatologische Schwerpunktpraxis Herne"
+        }
+      }
+    ],
+    "materialSupports": [
+      {
+        "contact": {
+          "streetAndNo": "Johnson & Johnson Platz 1",
+          "city": "Neuss",
+          "zip": "41470",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Janssen-Cilag GmbH (finanzielle Unterstützung bis 14.07.20/financial support until 2020-07-14)"
+        },
+        "type": "COMMERCIAL"
+      },
+      {
+        "contact": {
+          "streetAndNo": "Emil-Barell-Str. 1",
+          "city": "Grenzach-Wyhlen",
+          "zip": "79639",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Roche Pharma AG (finanzielle Unterstützung bis 14.07.17/financial support until 2017-07-14)"
+        },
+        "type": "COMMERCIAL"
+      },
+      {
+        "contact": {
+          "streetAndNo": "Carl-Neuberg-Str. 1",
+          "city": "Hannover",
+          "zip": "30625",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Deutsche Leberstiftung"
+        },
+        "type": "PRIVATE_SPONSORSHIP"
+      },
+      {
+        "contact": {
+          "streetAndNo": "Mainzer Str. 81",
+          "city": "Wiesbaden",
+          "zip": "65189",
+          "country": "DE",
+          "email": "",
+          "fax": "",
+          "firstName": null,
+          "lastName": null,
+          "phone": "",
+          "title": null,
+          "url": "",
+          "affiliation": "AbbVie Deutschland GmbH & Co. KG (finanzielle Unterstützung bis 14.07.24/financial support until 2024-07-14"
+        },
+        "type": "COMMERCIAL"
+      },
+      {
+        "contact": {
+          "streetAndNo": "Fraunhoferstr. 17",
+          "city": "Martinsried/München",
+          "zip": "82152",
+          "country": "DE",
+          "email": "",
+          "fax": "",
+          "firstName": null,
+          "lastName": null,
+          "phone": "",
+          "title": null,
+          "url": "",
+          "affiliation": "Gilead Sciences GmbH (finanzielle Unterstützung des Registers bis 14.07.22/financial support of the registry until 2022-07-14; finanzielle Unterstützung der Datenbank 15.07.22-14.07.23/financial support of the database 2022-07-15 to 2023-07-14)"
+        },
+        "type": "COMMERCIAL"
+      },
+      {
+        "contact": {
+          "streetAndNo": "Lindenplatz 1",
+          "city": "Haar",
+          "zip": "85540",
+          "country": "DE",
+          "email": "",
+          "fax": "",
+          "firstName": null,
+          "lastName": null,
+          "phone": "",
+          "title": null,
+          "url": "",
+          "affiliation": "MSD Sharp & Dohme GmbH (finanzielle Unterstützung bis 14.07.24/financial support until 2024-07-14"
+        },
+        "type": "COMMERCIAL"
+      },
+      {
+        "contact": {
+          "streetAndNo": "Inhoffenstr. 7",
+          "city": "Braunschweig",
+          "zip": "38124",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Deutsches Zentrum für Infektionsforschung (DZIF)"
+        },
+        "type": "PUBLIC_FUNDING"
+      },
+      {
+        "contact": {
+          "streetAndNo": "Arnulfstr. 29",
+          "city": "München",
+          "zip": "80636",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Bristol-Myers Squibb GmbH & Co.KGaA (finanzielle Unterstützung bis 14.07.20/financial support until 2020-07-14)"
+        },
+        "type": "COMMERCIAL"
+      }
+    ],
+    "studyCharacteristic": {
+      "type": "NON_INTERVENTIONAL",
+      "allocation": null,
+      "assignment": null,
+      "blindingType": null,
+      "blindingWhoList": [],
+      "controlTypes": [],
+      "phase": null,
+      "purpose": "OTHER",
+      "typeNonInterventional": null,
+      "characteristicDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "primaryOutcome": "Anteil an Patienten, die ein anhaltendes virologisches Ansprechen 12 Wochen nach Therapieende erreichen (SVR12).",
+          "secondaryOutcome": "Sicherheit und Verträglichkeit: alle (schwerwiegenden) unerwünschten Ereignisse während der Behandlung und der Nachbeobachtung.\r\n\r\nVirologisches Ansprechen: rasches virologisches Ansprechen (RVR), frühzeitiges virologisches Ansprechen (EVR), Ende der Behandlung, 24 Wochen nach Ende der Behandlung (SVR24), Therapieversagen, Rückfall\r\n\r\nEingangsuntersuchung: Zirrhose, Vor-Therapie, IL28B Genotyp, BMI, Rasse, Alter, Genotyp des Virus, Viruslast, relevante Laborparameter, Begleiterkrankungen.\r\n\r\nBefolgung der Therapie.\r\n\r\nEinfluss einer erfolgreichen Therapie auf Morbidität und Mortalität der Patienten.\r\n\r\nErfasste Patientenergebnisse (Lebensqualitätsfragebogen, klinische Ergebnisse).\r\n\r\n",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "primaryOutcome": "Proportion of patients, who achieved sustained virological response 12 weeks after end of treatement (SVR12).",
+          "secondaryOutcome": "Safety & tolerability: all (severe) adverse events during treatment and follow-up period).\r\nvirological outcome: RVR, EVR, EoTR, SVR24, on-treatment failure, viral relapse rates.\r\nBaseline including: Cirrhosis, previous therapy (if applicable), IL28B GT, BMI, Race, Age, viral genotype and viral load, rel-evant laboratory parameters, concomitant diseases.\r\nAdherence to therapy.\r\nImpact of successful therapy on morbidity and mortality on patients.\r\nPatient reported outcomes (based on patient questionnaires and clinical outcomes).\r\n",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        }
+      ],
+      "timing": null,
+      "duration": null
+    },
+    "trialResults": {
+      "ipdSharingPlan": false,
+      "trialResultsDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "ipdSharingPlanDescription": "",
+          "briefSummaryOfResultsDescription": ""
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "ipdSharingPlanDescription": "",
+          "briefSummaryOfResultsDescription": ""
+        }
+      ],
+      "plannedPublication": "",
+      "firstPublication": null,
+      "firstResultPublication": null,
+      "publications": [
+        {
+          "description": "Höner zu Siederdisssen et al. UEG Journal. https://doi.org/10.1177/2050640617716607",
+          "link": "https://doi.org/10.1177/2050640617716607",
+          "type": "RESULT",
+          "document": null
+        },
+        {
+          "description": "Tacke at al. Liver International. https://doi.org/10.1111/liv.13206",
+          "link": "https://doi.org/10.1111/liv.13206",
+          "type": "RESULT",
+          "document": null
+        },
+        {
+          "description": "Cornberg et al. AP&T. https://doi.org/10.1111/apt.13925",
+          "link": "https://doi.org/10.1111/apt.13925",
+          "type": "RESULT",
+          "document": null
+        },
+        {
+          "description": "Buggisch et al. Journal of Hepatology. https://doi.org/10.1016/j.jhep.2017.11.009",
+          "link": "https://doi.org/10.1016/j.jhep.2017.11.009",
+          "type": "RESULT",
+          "document": null
+        },
+        {
+          "description": "Christensen et al. Addiction. https://doi.org/10.1111/add.14128",
+          "link": "https://doi.org/10.1111/add.14128",
+          "type": "RESULT",
+          "document": null
+        },
+        {
+          "description": "Bischoff et al. HIV Medicine. https://doi.org/10.1111/hiv.12579",
+          "link": "https://doi.org/10.1111/hiv.12579",
+          "type": "RESULT",
+          "document": null
+        },
+        {
+          "description": "Welzel et al. Journal of Viral Hepatitis. https://doi.org/10.1111/jvh.12708",
+          "link": "https://doi.org/10.1111/jvh.12708",
+          "type": "RESULT",
+          "document": null
+        }
+      ],
+      "relatedDrksTrials": []
+    },
+    "secondaryIds": {
+      "otherPrimaryRegisterId": "",
+      "otherPrimaryRegisterName": "",
+      "universalTrialNumber": "",
+      "eudraCtNumber": "",
+      "eudamedNumber": "",
+      "noOtherIdentificationNumbersAvailable": false
+    },
+    "otherSecondaryIds": [
+      {
+        "value": "2493  ",
+        "description": "bfarm-nr - BfArM-NIS-Nr."
+      }
+    ],
+    "studiedHealthConditions": [
+      {
+        "type": "MAIN",
+        "catalog": "ICD10",
+        "code": "B18.2",
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Chronische Virushepatitis C"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Chronic viral hepatitis C"
+          }
+        ]
+      }
+    ],
+    "recruitment": {
+      "institutes": [
+        {
+          "type": "OTHER",
+          "name": "Universitätskliniken, Kliniken, Praxen",
+          "city": ""
+        }
+      ],
+      "countries": [
+        {
+          "idCountry": {
+            "code": "DE"
+          }
+        }
+      ],
+      "centricType": "MULTICENTRIC",
+      "gender": "ALL",
+      "minimumAge": {
+        "amount": 18,
+        "unit": "YEARS"
+      },
+      "maximumAge": {
+        "amount": null,
+        "unit": "NO_MAX_AGE"
+      },
+      "totalParticipants": 18940,
+      "plannedParticipants": 20000,
+      "status": "COMPLETE_FOLLOW_UP_CONTINUING",
+      "recruitmentDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "Schwangerschaft (Patientin oder weibliche Partnerin von männlichen Patienten), Stillzeit oder Frauen im gebärfähigem Alter ohne zuverlässige Kontrazeption. \r\nKontraindikationen für den Einsatz der HCV-Therapie. \r\nBehandlungen der Hepatitis C, die in klinischen Phase I bis IV-Studien durchgeführt wurden oder werden, können nicht im Deutschen Hepatitis C-Register dokumentiert werden.\r\nPatienten, deren Hepatitis C-Behandlung in einer anderen honorierten nicht-interventionellen Studie dokumentiert wird, können nicht gleichzeitig im Deutschen He-patitis C-Register dokumentiert werden.\r\n",
+          "inclusionCriteria": "Alter ≥ 18 Jahre und cronische Virushepatitis C mit Virusreplikation (HCV-RNA +)\r\n\r\nPatienten, die mit den folgenden antiviralen Therapien behandelt werden, können in das Register einbezogen werden:\r\n\r\nElbasvir/Grazoprevir ± Ribavirin\r\nElbasvir/Grazoprevir + Sofosbuvir ± Ribavirin\r\nEinschluss von insgesamt maximal 3.000 mit Elbasvir/Grazoprevir behandelten Patienten.\r\n\r\nGlecaprevir/Pibrentasvir ± Ribavirin (Einschluss von maximal 800 Patienten folgender Subgruppen:\r\n-Patienten mit aktivem Drogenkonsum und/oder\r\n-Patienten mit Alkoholabusus und/oder\r\n-Patienten mit kompensierter Leberzirrhose (Child Pugh Score A))\r\n\r\nSofosbuvir/Velpatasvir/Voxilaprevir ± Ribavirin (ausschließlich als Re-Therapie nach erfolgloser Vorbehandlung mit direkt-antiviralen HCV-Medikamenten; Einschluss von maximal 300 Patienten)\r\n\r\nDarüber hinaus können Patienten, die nicht mit einer antiviralen Therapie behandelt werden, dokumentiert werden. Die Entscheidung, welche antivirale Therapie verordnet wird, liegt im alleinigen Ermessen des Arztes.\r\n"
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "Pregnancy (patient or female partner of male patient), women in nursing period or women of childbearing age without reliable contraception. Contraindications for use of antiviral treatment. Treatment of hepatitis c, which is conducted in clinial trials of phase I to IV must not be documented in the DHC-R. Patients whose hepatitis c treatment is documented in other remunerated non-interventional studies are not allowed to be documented simultaneously in the DHC-R.",
+          "inclusionCriteria": "Age 18 and chronic Hepatitis C Virus infection with viral replication (HCV-RNA +)\r\n\r\nPatients which are treated with the following antiviral therapies can be documented in the registry: \r\n\r\nelbasvir/grazoprevir (up to 3,000 patients);\r\n\r\nglecaprevir/pibrentasvir (up to 800 patients with active drug abuse and/or alcohol abuse and/or compensated liver cirrhosis (Child-Pugh A));\r\n\r\nsofosbuvir/velpatasvir/voxilaprevir (exclusively as rescue therapy after DAA failure, up to 300 patients)\r\n\r\nMoreover, patients which are not treated can be documented in the registry. Patients are treated at the sole discretion of the physician."
+        }
+      ],
+      "scheduledStartDate": null,
+      "scheduledCompletionDate": "2026-07-14",
+      "actualStartDate": "2014-11-24",
+      "actualCompletionDate": null,
+      "healthyVolunteers": null
+    },
+    "ethicsCommittee": {
+      "applicationDate": "2014-08-14",
+      "number": "2014-395-f-S",
+      "ethicVotes": [
+        {
+          "dateOfVote": "2014-09-02",
+          "vote": "APPROVED",
+          "type": "ETHICS_COMMITTEE",
+          "contact": {
+            "streetAndNo": "Gartenstraße 210-214",
+            "city": "Münster",
+            "zip": "48147",
+            "country": "DE",
+            "email": "ethik-kommission@aekwl.de",
+            "fax": "+49-251-9292478",
+            "firstName": null,
+            "lastName": null,
+            "phone": "+49-251-9292460",
+            "title": null,
+            "url": null,
+            "affiliation": "Ethikkommission der Ärztekammer Westfalen-Lippe und der Westfälischen Wilhelms-Universität Münster"
+          }
+        }
+      ]
+    },
+    "studyWithdrawn": null,
+    "studyWithdrawnMessage": null
+  },
+  {
+    "drksId": "DRKS00009718",
+    "trialStatus": "UPDATED",
+    "registrationDrks": "2015-11-26",
+    "registrationType": "PROSPECTIVE",
+    "lastUpdate": "2024-01-05",
+    "sponsored": true,
+    "url": "",
+    "trialDescriptions": [
+      {
+        "idLocale": {
+          "locale": "de"
+        },
+        "acronym": "RoboStim",
+        "title": "Repetitive sensible Stimulation und roboterunterstütztes Training der oberen Extremität nach Schlaganfall (RoboStim)",
+        "summary": "In dieser Studie wollen wir untersuchen, ob wiederholte sensible Stimulation der Finger-spitzen therapeutische Effekte in der Rehabilitation nach Schlaganfall verbessern kann. Bei der sensiblen Stimulation werden über einen speziellen Handschuh elektrische Impulse an die Fingerspitzen übertragen. Von den Fingerspitzen werden die Impulse über Nervenbahnen in Gehirnbereiche weitergeleitet, die für die Bewegung der Hand zuständig sind. Die direkte Stimulation dieser Gehirnbereiche sorgt für eine Reaktivierung des durch den Schlaganfall geschädigten Areals. Außerdem werden in benachbarten, nicht betroffenen Gehirngebieten Ausgleichsprozesse gefördert.\r\nNun wollen wir herausfinden, ob sich durch sensible Stimulation die Therapieeffekte von roboterunterstütztem Armtraining auf die Motorik und die Sensorik nach Schlaganfall beschleunigen und verbessern lassen. ",
+        "scientificSummary": "Ein wichtiges Ziel von therapeutischen Verfahren in der Rehabilitation nach Schlaganfall ist die Indizierung von neuroplastischen Mechanismen um Reorganisation und sensomotorische Verbesserungen voranzutreiben. Periphere repetitive sensible Stimulation kann plastische Reorganisationsprozesse im oder um den Bereich, der dysfunktional geworden ist, induzieren. Bei Gesunden wie bei chronischen und subakuten Patienten konnten positive therapeutische Effekte von repetitiver sensibler Stimulation auf die Sensorik und Motorik nachgewiesen werden.\r\nBeim Schlaganfall kommt es in bis zu 80 % der Betroffenen zu erheblichen Lähmungen, die den Alltag der Patienten massiv behindern. Weniger auffallend und daher weniger stark beachtet, treten sensible Ausfälle mit ähnlicher Häufigkeit auf und können die motorische Erholung zusätzlich beeinträchtigen.\r\nPeriphere repetitive sensible Stimulation hat den besonderen Vorteil, dass es eine passive Therapieform ist und keiner besonderen Aufmerksamkeit durch den Patienten bedarf. Das therapeutische Verfahren eignet sich daher gut für die Kombination mit anderen therapeutischen Verfahren.\r\nIn dieser Pilotstudie wird die Wirksamkeit von repetitiver sensibler Stimulation in Kombination mit roboterunterstützter Therapie auf die Hand- und Armfunktion bei subakuten Schlaganfallpatienten untersucht. Dabei erhalten die Patienten 45 Minuten sensible Stimulation der Fingerspitzen mit dem tipstim®-System. Unmittelbar an die sensible Stimulation schließt eine Einheit roboterunterstütztes Training für die obere Extremität an. Die Anwendung erfolgt viermal wöchentlich über eine Dauer von 3 Wochen. Insgesamt sollen 60 Patienten eingeschlossen werden; darunter 40 Patienten in der subakuten Phase nach Schlaganfall und 20 Patienten in der chronischen Phase. Es wird erwartet, dass die repetitive sensibele Stimulation die plastische Reorganisation fördert und dadurch die Therapieeffekte verbessert.\r\n\r\nFolgende Hypothese soll mit der Studie überprüft werden:\r\nSensible Stimulation verbessert die Therapieeffekte von roboterunterstütztem Training auf die Arm- und Handfunktion gegenüber einer Vergleichsgruppe mit Sham-Stimulation.\r\nAmendment vom 10. Februar 2017: Separate Betrachtung und Analyse von subakuten und chronischen Patienten nach Schlaganfall. In diesem Zuge Erhöhung der Gesamtzahl von einzuschließenden Patienten auf 60. "
+      },
+      {
+        "idLocale": {
+          "locale": "en"
+        },
+        "acronym": "RoboStim",
+        "title": "Repetitive sensory stimulation and robot-assisted training for the upper extremity after stroke (RoboStim)",
+        "summary": "The objective of the study is to investigate whether sensory stimulation of the fingertips improves therapeutic effects during neurorehabilitation. A specific glove is used for sensory stimulation. The glove conducts electrical impulses to the fingertips. The electrical impulses are conducted via nerve tracts from the fingertips to brain areas which are responsible for the movement of the hand. The direct stimulation of these brain areas induces a reactivation in the area which is damaged due to the stroke. In addition, plastic reorganization is also induced in nearby undamaged areas. In this study we will determine, whether sensory stimulation is effective and efficient to improve the sensorimotor effects of robot-assisted arm training in stroke patients.",
+        "scientificSummary": "The induction of neuroplasticity mechanisms is a major aim of therapeutic approaches after stroke. Peripheral repetitive sensory stimulation can induce plastic reorganization in or around the damaged brain area. A positive effect of repetitive sensory stimulation on motor and sensory function was found in healthy adults and acute and chronic stroke patients.\r\nAbout 80% of stroke victims show serious paralysis which considerably hamper activities of daily living. About the same amount of stroke patients show somatosensory deficits. They attract less attention than motor deficits, however, they often affect motor recovery. Peripheral repetitive sensory stimulation is passive and needs no specific attention from the patient. It is therefore especially suitable in combination with other therapeutic approaches.\r\nThe current pilot study investigates the effects of repetitive sensory stimulation in combination with robot-assisted training on the sensorimotor function of the arm and hand in subacute patients after stroke. Patients are stimulated for 45 minutes on the fingertips using the tipstim® system. Immediately after the sensory stimulation patients perform robot-assisted training for the upper extremity. The intervention is applied four times per week for three weeks. In total, 60 patients shall be included, 40 patients in the subacute phase after stroke and 20 patients in the chronic phase. It is expected that repetitive sensory stimulation induces plastic reorganization and consequently improves the effects of the training. The following hypothesis should be answered: Sensory stimulation improves the effects of robot-assisted training on the arm und the hand function compared to sham-stimulation.\r\nAmendment February 10, 2017: Separate consideration and analysis of patients in the subacute and in the chronic phase after stroke. Therefore, the total sample size was increased to 60 patients. "
+      }
+    ],
+    "observationalGroups": [
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "de"
+        },
+        "comment": "Sensible Stimulation (tipstim®) und roboterunterstütztes Armtraining. Die Patienten der Interventionsgruppe erhalten an 4 Tagen pro Woche (über 3 Wochen) 45 Minuten sensible Stimulation der Fingerspitzen und unmittelbar im Anschluss eine Einheit (45 Minuten) roboterunterstützte Therapie für den betroffenen Arm. Während der Therapie mit tipstim® sitzt der Patient auf einem Stuhl oder im Rollstuhl. Der Stimulationshandschuh wird auf der betroffenen Seite getragen."
+      },
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "en"
+        },
+        "comment": "Sensory stimulation (tipstim®) and robot-assisted arm training. The patients of the intervention group are stimulated for 45 minutes at 4 days per weeks (for 3 weeks) at the fingertips. Immediately after the stimulation they train on a arm robot. During the sensory stimulation with tipstim®, the patient is sitting on a chair or in the wheelchair. Patients wear the stimulation glove on their paretic hand."
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "de"
+        },
+        "comment": "Sham-Stimulaton und roboterunterstütztes Armtraining.  Die Patienten der Kontrollgruppe erhalten an 4 Tagen pro Woche (über 3 Wochen) 45 Minuten Sham-Stimulation  und unmittelbar im Anschluss eine Einheit (45 Minuten) roboterunterstützte Therapie für den betroffenen Arm. Während der Therapie mit tipstim® sitzt der Patient auf einem Stuhl oder im Rollstuhl. Der Sham-Handschuh wird auf der betroffenen Seite getragen. Der Sham-Handschuh hat einen Kurzschluss, so dass kein Strom in die Fingerspitzen fliesst."
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "en"
+        },
+        "comment": "Sham stimulation and robot-assisted arm training. The patients of the control group receive sham-stimulation for 45 minutes at 4 days per weeks (for 3 weeks). Immediately after the sham-stimulation they train on a arm robot. During the sensory stimulation with tipstim®, the patient is sitting on a chair or in the wheelchair. Patients wear the sham-stimulation glove on their paretic hand. The sham-stimulation glove has a short-circuit and no electric current arrives at the fingertips."
+      }
+    ],
+    "trialContacts": [
+      {
+        "idContactIdType": {
+          "type": "PRIMARY_SPONSOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Kolbermoorer Str. 72",
+          "city": "Bad Aibling",
+          "zip": "83043",
+          "country": "DE",
+          "email": "fmueller@schoen-kliniken.de",
+          "fax": null,
+          "firstName": "Friedemann",
+          "lastName": "Müller",
+          "phone": "+49 (0) 8061-903-0",
+          "title": "Dr.",
+          "url": "http://www.schoen-kliniken.de/aib",
+          "affiliation": "Schoen Klinik Bad Aibling"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PRINCIPAL_COORDINATING_INVESTIGATOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Kolbermoorer Strasse 72",
+          "city": "Bad Aibling",
+          "zip": "83043",
+          "country": "DE",
+          "email": "jbergmann@schoen-kliniken.de",
+          "fax": null,
+          "firstName": "Jeannine",
+          "lastName": "Bergmann",
+          "phone": "+49 8061 903-1954",
+          "title": null,
+          "url": "www.schoen-kliniken.de/ptp/kkh/aib/",
+          "affiliation": "Schön Klinik Bad Aibling"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PUBLIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Kolbermoorer Strasse 72",
+          "city": "Bad Aibling",
+          "zip": "83043",
+          "country": "DE",
+          "email": "jbergmann@schoen-kliniken.de",
+          "fax": null,
+          "firstName": "Jeannine",
+          "lastName": "Bergmann",
+          "phone": "+49 8061 903-1954",
+          "title": null,
+          "url": "www.schoen-kliniken.de/ptp/kkh/aib/",
+          "affiliation": "Schön Klinik Bad Aibling"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "SCIENTIFIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Kolbermoorer Strasse 72",
+          "city": "Bad Aibling",
+          "zip": "83043",
+          "country": "DE",
+          "email": "jbergmann@schoen-kliniken.de",
+          "fax": null,
+          "firstName": "Jeannine",
+          "lastName": "Bergmann",
+          "phone": "+49 8061 903-1954",
+          "title": null,
+          "url": "www.schoen-kliniken.de/ptp/kkh/aib/",
+          "affiliation": "Schön Klinik Bad Aibling"
+        }
+      }
+    ],
+    "materialSupports": [
+      {
+        "contact": {
+          "streetAndNo": "Kolbermoorer Str. 72",
+          "city": "Bad Aibling",
+          "zip": "83043",
+          "country": "DE",
+          "email": "bschaepers@schoen-kliniken.de",
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": "+49 (0) 8061 903 0",
+          "title": null,
+          "url": null,
+          "affiliation": "Schoen Klinik Bad Aibling"
+        },
+        "type": "INSTITUTIONAL"
+      }
+    ],
+    "studyCharacteristic": {
+      "type": "INTERVENTIONAL",
+      "allocation": "RANDOMIZED_CONTROLLED_TRIAL",
+      "assignment": "PARALLEL",
+      "blindingType": "BLINDED",
+      "blindingWhoList": [
+        {
+          "idBlindingWho": {
+            "blindingWho": "ASSESSOR"
+          }
+        },
+        {
+          "idBlindingWho": {
+            "blindingWho": "INVESTIGATOR_THERAPIST"
+          }
+        },
+        {
+          "idBlindingWho": {
+            "blindingWho": "PATIENT_SUBJECT"
+          }
+        }
+      ],
+      "controlTypes": [
+        {
+          "idControlType": {
+            "controlType": "ACTIVE_CONTROL"
+          }
+        }
+      ],
+      "phase": "PHASE_I",
+      "purpose": "TREATMENT",
+      "typeNonInterventional": null,
+      "characteristicDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "primaryOutcome": "Fugl-Meyer Test für die obere Extremität. Der Test misst die selektive motorische Kontrolle der oberen Extremität nach Schlaganfall. Erhoben wir der Fugl-Meyer Test vor der Interventionsphase, nach der Interventionsphase und in einem Follow-Up drei Wochen nach Interventionsende",
+          "secondaryOutcome": "Der Box and Block Test zur Erfassung der Grobgeschicklichkeit der oberen Extremität, die Stroke Upper Limbs Capacity Scale zur Berurteilung der Arm- und Handfunktion, die Handkraft gemessen mit dem Biometrics Dynanometer, Bestimmung der Schwelle für die Berührungswahrnehmung mit Frey Haaren und Zwei-Punkte Diskrimination gemessen mit einer Zweipunktediskriminatorscheibe. Alle Testungen werden vor der Interventionsphase, nach der Interventionsphase und in einem Follow-Up 3 Wochen nach der Interventionsphase erhoben.",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "primaryOutcome": "Fugl-Meyer test for the upper extremity. The test measures the selective motor function of the upper extremity after stroke. The Fugl-Meyer test is assessed before the intervention phase, after the intervention phase and at a follow-up three weeks after the end of the intervention phase.",
+          "secondaryOutcome": "The Box and Block Test to assess the gross motor function of the upper extremity, the Stroke Upper Limbs Capacity Scale to rate arm and hand function, the strength of the hand measured with the Biometrics Dynanometer, the threshold for touch using Frey filaments, and the two point discrimination measured with a disk for two point discrimination. All test are assessed before the intervention phase, after the intervention phase and at a follow-up three weeks after the end of the intervention phase.",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        }
+      ],
+      "timing": null,
+      "duration": null
+    },
+    "trialResults": {
+      "ipdSharingPlan": false,
+      "trialResultsDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "ipdSharingPlanDescription": "",
+          "briefSummaryOfResultsDescription": ""
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "ipdSharingPlanDescription": "",
+          "briefSummaryOfResultsDescription": ""
+        }
+      ],
+      "plannedPublication": "",
+      "firstPublication": null,
+      "firstResultPublication": "2024-01-05",
+      "publications": [
+        {
+          "description": "M. Egger, J. Bergmann, M. Steinböck, T. Amberger, F. Müller (2019): P064 RoboStim: Upper Limb Repetitive Sensory Stimulation and Robot Therapy Post Stroke. Interim Analysis of a Pilot Study. Neurologie & Rehabilitation, 25 (S3): S55",
+          "link": "https://www.hippocampus.de/media/316/cms_5e0f9cb47a7c9.pdf",
+          "type": "RESULT",
+          "document": null
+        }
+      ],
+      "relatedDrksTrials": []
+    },
+    "secondaryIds": {
+      "otherPrimaryRegisterId": null,
+      "otherPrimaryRegisterName": null,
+      "universalTrialNumber": null,
+      "eudraCtNumber": null,
+      "eudamedNumber": null,
+      "noOtherIdentificationNumbersAvailable": true
+    },
+    "otherSecondaryIds": [],
+    "studiedHealthConditions": [
+      {
+        "type": "MAIN",
+        "catalog": "ICD10",
+        "code": "G81.9",
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Hemiparese und Hemiplegie, nicht näher bezeichnet"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Hemiplegia, unspecified"
+          }
+        ]
+      },
+      {
+        "type": "OTHER",
+        "catalog": "ICD10",
+        "code": "Z50.8",
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Sonstige Rehabilitationsmaßnahmen"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Care involving use of other rehabilitation procedures"
+          }
+        ]
+      }
+    ],
+    "recruitment": {
+      "institutes": [
+        {
+          "type": "MEDICAL_CENTER",
+          "name": "Schön Klinik Bad Aibling",
+          "city": "Bad Aibling"
+        }
+      ],
+      "countries": [
+        {
+          "idCountry": {
+            "code": "DE"
+          }
+        }
+      ],
+      "centricType": "MONOCENTRIC",
+      "gender": "ALL",
+      "minimumAge": {
+        "amount": 18,
+        "unit": "YEARS"
+      },
+      "maximumAge": {
+        "amount": 80,
+        "unit": "YEARS"
+      },
+      "totalParticipants": 51,
+      "plannedParticipants": 60,
+      "status": "COMPLETE_FOLLOW_UP_COMPLETE",
+      "recruitmentDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "Elektrohypersensibilität, Schwere Polyneuropathie bzw. periphere Nervenläsion i.B. der betroffenen Extremität, Metallimplantate im Bereich der paretischen Extremität, Herzschrittmacher, Epilepsie, Instabile bzw. nicht belastungsstabile Frakturen der betroffenen Extremität, Schwere Schmerzsyndrome, Offene Hautläsionen im Stimulationsbereich, Unfähigkeit zum Sitzen oder medizinische Kontraindikation für eine sitzende Haltung, Schwere Aphasie oder schwere kognitive Beeinträchtigung, die die Durchführung der Assessments oder der Therapie ausschließen.\r\n",
+          "inclusionCriteria": "Unilateraler ischämischer oder hämorrhagischer Hirninfarkt (≥4 Wochen); Hemiparese der oberen Extremität (SULCS score 1 -6); Alter: 18 – 80 Jahre\r\n"
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "Electro-hypersensibility, severe polyneuropathy or peripheral nerve lesions at the upper extremity, metal implants at the paretic upper extremity, cardiac pacemaker, epilepsy, instable fractures of the hemiparetic upper extremity, severe pain syndrome, skin lesions within the stimulation area, inability to sit or medical contraindication for a sitting position, severe aphasia or severe cognitive deficits which make the assessments or the therapy impossible.",
+          "inclusionCriteria": "Unilateral ischemic or hemorrhagic stroke (≥4 weeks), hemiparesis of the upper extremity (SULCS score 1-6), Age 18-80 years"
+        }
+      ],
+      "scheduledStartDate": "2015-12-09",
+      "scheduledCompletionDate": null,
+      "actualStartDate": "2015-12-11",
+      "actualCompletionDate": "2020-02-21",
+      "healthyVolunteers": null
+    },
+    "ethicsCommittee": {
+      "applicationDate": "2015-09-04",
+      "number": "15093",
+      "ethicVotes": [
+        {
+          "dateOfVote": "2015-11-13",
+          "vote": "APPROVED",
+          "type": "ETHICS_COMMITTEE",
+          "contact": {
+            "streetAndNo": "Mühlbaurstr. 16",
+            "city": "München",
+            "zip": "81677",
+            "country": "DE",
+            "email": "ethikkommission@blaek.de",
+            "fax": "+49-89-4147334",
+            "firstName": null,
+            "lastName": null,
+            "phone": "+49-89-4147165",
+            "title": null,
+            "url": null,
+            "affiliation": "Ethik-Kommission der Bayerischen Landesärztekammer"
+          }
+        }
+      ]
+    },
+    "studyWithdrawn": false,
+    "studyWithdrawnMessage": null
+  },
+  {
+    "drksId": "DRKS00009719",
+    "trialStatus": "UPDATED",
+    "registrationDrks": "2015-12-01",
+    "registrationType": "RETROSPECTIVE",
+    "lastUpdate": "2020-07-14",
+    "sponsored": true,
+    "url": null,
+    "trialDescriptions": [
+      {
+        "idLocale": {
+          "locale": "de"
+        },
+        "acronym": "VARF",
+        "title": "Automatische Rekonstruktion von Frakturen und vor-Ort- Produktion von Osteosyntheseimplantaten durch Verwendung statistischer Knochenmodelle- Internet-basierte Computer unterstützte Chirurgie",
+        "summary": "Die Positionierung von gebrochenen Knochen erfolgt  im Operationsaal nach vorhergeganger Bildgebung. Der Chirurg positioniert die Knochenenden in der korrekten anatomischen Position und passt daran die Osteosyntheseplatte durch Biegen und Kürzen an die individuellen anatomischen Gegebenheiten an. Bei schwierigen Defektsituationen, in denen eine Wiederherstellung und Repositionierung der Knochen nur schwer möglich ist, kommt aktuell ein Verfahren zur Anwendung, das anhand von CT-Daten die gesunde Seite auf die kranke Seite spiegelt. Damit diese Spieglung möglich ist, muss der zu spiegelnde Knochen aus dem CT-Datensatz isoliert werden um dann in der Folge auf die kranke Seite gespiegelt zu werden. Dieses Verfahren ist zeitaufwendig, stark vom Geschick des Operateurs am Computer abhängig und stößt vor allem bei beidseitigen Frakturen an seine Grenzen. Ein neues Verfahren, das zusammen mit der Biologischen Anthropologie entwickelt wurde, ermöglicht die Repositionierung der Knochen am Computer durch das Anpassen eines statistischen Modells, das aus vielen verschiedenen CT-Bildern ermittelt wurde und ein Mittelwertmodel darstellt, an die individuelle Situation des Patienten. Dieses Verfahren ist  automatisiert und bedarf nur weniger Registrierungspunkte am CT-Datensatz des Patienten um das statistische Modell durch den Computer anzupassen. Bei großen Defekten, bei denen eine Spiegelung nicht möglich ist, dient das statistische Modell als Vorlage, die der Computeralgorythmus an den individuellen Fall anpassen kann.  Dieses Studie soll nun den Nachweis erbringen, dass das vorgestellte Verfahren mindestens ebenbürtig in der Genauigkeit der Frakturrepositionierung ist wie das bisher angewandte Verfahren. Ziel ist es ein Verfahren an der Hand zu haben, dass schnell, einfach und zuverlässig Frakturen bereits vor der Operation virtuell am Computer repositionieren kann. Das rekonstruierte Modell, das mit einem 3D-Drucker ausgedruckt werden kann, dient z.B. als Vorlage für die präoperative Anpassung von Implantaten oder bei Vorhandensein eines vollständig digitalen Workflows, zukünftig die Herstellung eines spezifischen Implantats eines Patienten. Die Passgenauigkeit wird so um ein Vielfaches gesteigert. In der Studie werden nun anonymisierte CT-Daten von unverletzten kompletten Schädeln verwendet, die mittels eines Programmes einen virtuellen Defekt gesetzt bekommen, der mittels eines etablierten Verfahren (Spiegelung) und einem neuen  Verfahren  (statistisches Modell) rekonstruiert wird. Die Analyse beschäftigt sich mit den metrischen Unterschieden der beiden Rekonstruktionsverfahren in Bezug auf die unverletzten Schädeln. Hier kann dann die Präzision beider Verfahren verglichen werden. ",
+        "scientificSummary": "Die virtuelle Frakturrekonstruktion durch Segmentation, Spiegelung oder Registrierung ist zeitaufwendig und bei bilateralen Defekten limitiert. Anhand eines statistischen Modells des Mittelgesichtes soll ein neues Verfahren zur Frakturrekonstruktion präsentiert werden.\nEin statistisches Modell des Mittelgesichtes wurde mittels CT-Daten gesunder Mittelgesichter errechnet. Zur Überprüfung der Rekonstruktionsgenauigkeit wurde ein virtueller Defekt der Jochbeinprominenz gesetzt. Drei verschiedene Verfahren zur Rekonstruktion wurden durchgeführt. In Gruppe I erfolgte die Rekonstruktion durch Spiegelung der gesunden auf die Defektseite. Die Ausrichtung des gespiegelten Volumens erfolgte über einen automatisierten Passungs-Algorithmus. In Gruppe II kam eine rigide Deformation eines Schädel-Templates zur Anwendung. In Gruppe III wurden die Rekonstruktionen anhand des statistischen Modells durchgeführt. Die Rekonstruktionen aller drei Gruppen wurden mit der Originaloberfläche des initialen Schädels auf der intakten und auf der Defektseite vergleichen und analysiert.\nDer Defekt konnten mit jedem Verfahren rekonstruiert werden. Für die intakte Seite ergaben sich Genauigkeiten in Gruppe I von 1,00mm +/-0,34mm; in Gruppe II von 0,2mm +/-0,12mm und in Gruppe III von 0,79mm +/-0,12mm. Bei der Betrachtung der Rekonstruktionen der defekten Seite ergaben sich Genauigkeiten in Gruppe I von 1,10mm +/-0,26mm; in Gruppe II von 0,84mm +/-0,26mm und in Gruppe III von 1,67mm +/-0,96mm. Die Unterschiede zwischen den Gruppen waren auf der gesunden Seite und der rekonstruierten Seite hoch signifikant. \nDie Ergebnisse zeigen, dass das statistische Modell präziser ist. Symmetrieabweichungen sind im statistischen Modell berücksichtigt und beeinflusst die Präzision im Vergleich zur Spiegelung. Die vereinfachte Anwendung, die Einsatzmöglichkeit bei bilateralen Defekten und die Möglichkeit automatisiert patienten-spezifische Implantate zur erzeugen stellen Vorteile gegenüber bisherigen Verfahren dar.\n"
+      },
+      {
+        "idLocale": {
+          "locale": "en"
+        },
+        "acronym": "VARF",
+        "title": "Automatic bony reconstruction and implant generation for on-site production by using statistical bone models – internet based computer assisted surgery (iCAS)",
+        "summary": "The Postioning of bone fragments of fractures is done in the operation theatre after some radiography. The surgeon positions the bony fragments in the right position and bent plates and uses screws as fixation. In difficult situations, a mirroring process is used to reconstruct a multifragment fracture of the facial skeleton. The uninjured site is mirrored to the injured site.This process takes time and in special case, if both sites are injured, this process is limited. The anlysed procedure uses statistical models of skulls to reconstruct the defect site. The statistical model is based on many CT-scans of injured skulls to develop a precise template, which can be used and adapt to the individual skull of the patient. This process is much more simple and needs only few landmarks to adapt the template to the individual fracture site. This study compares the reconstruction of a virtual defect, placed in the regio of the zygomatic bone complex by the statistical model and the established procedure of mirroring. The precision is measured in relation to the uninjured situation. In our study, we used anonymized ct-data from uninjured skulls. We created a virtuell defect in the skull and reconstructed the defect by using the establsihed procedere (Mirroring) and the new procedure (statistical model). The metrical differences between the reconstructed skull and the uninjured original skull were compared.  ",
+        "scientificSummary": "Purpose\nComputer assisted surgery (CAS) is well established and its wide field of applications includes procedures such as preoperative planning, navigation, intraoperative imaging, image fusion, production of cutting guides and/or, patient specific implants. Limitations are given in the type of data because only three-dimensional data presenting a bone cornel can be used, the segmentation procedures, which is dependent of the data quality and, the possibility performing a virtual reconstruction if both sides are affected. \nStatistical models of single human bone shapes have been used in the last few years to create standardized anatomical preformed implants. By calculating such a model for the whole skull the implementation into all planning steps could be possible. This would have an impact of the workflow and could enlarge the possibilities in logistic pathways. Furthermore, they should be seen as basic elements offering internet based computer assisted surgery (iCAS).\nThis study evaluates the accuracy of a statistical model by the midface and describes its application within the workflow in computer assisted surgery\n \nMaterial & Methods\nIn a first step, a statistical model was generated by using N= 350 unaffected midface scans acquired by computer tomograph (CT).\n\nIn a second step the accuracy of the statistical model was evaluated by using N= 10 additional CT scans of healthy unaffected skulls not included in the database of the statistic model. A standardized bony defect of the right zygomatic bone was created by defining a sphere of 3cm range (Durchmesser) with the midpoint at the zygomatic prominence. A virtual reconstruction of this defect was then performed by using in a first group (Group I) the standard procedure of mirroring the unaffected to the affected side, in a second group Group II) by deforming a skull template onto the defect and, in a third group (Group III) by using the statistical model. Afterwards the reconstructed affected area was compared with the original unaffected one evaluating the mean deviation of both surfaces.  \n\nResults\nAll defects could be reconstructed with the three different methods. Comparing all three reconstruction groups the analysis showed significant differences considering the accuracy. With regard to the unaffected side the mean deviation was in group I 1.00mm +/-0.34mm; in group II 0.2mm +/-0.12mm and in group III 0.79mm +/-0.12mm. Considering the affected side the mean deviation was in group I 1.10mm +/-0.26mm; in group group II 0.84mm +/-0.26mm and in group II 1.67mm +/-0.96mm. The differences between each group were significant for the unaffected side (pI-II=0,001; pII-III=0,004; pI-III=0,004) and the affected side (pI-II=0,000; pII-III=0,000; pI-III=0,001).II-III=0,004; pI-III=0,004) und der rekonstruierten Seite (pI-II=0,000; pII-III=0,000; pI-III=0,001).\n \nConclusion\nThe statistical model of the midface can be used for automated virtual reconstruction of the midface in CAS. By combining this with virtual implants and/or cutting guides an automatization of planning the planning procedure can be optimized. The statistical model should be seen as the basic element for internet based computer assisted surgery (iCAS) which could accelerate the production process up to an on-site one. \n"
+      }
+    ],
+    "observationalGroups": [
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "de"
+        },
+        "comment": "Frakturrekonstruktion mittels Spiegelung\n"
+      },
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "en"
+        },
+        "comment": "Reconstruction by mirroring"
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "de"
+        },
+        "comment": "Frakturrekonstruktion mittels statistischem Modell\n"
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "en"
+        },
+        "comment": "Reconstruction by morphing of statistical model"
+      }
+    ],
+    "trialContacts": [
+      {
+        "idContactIdType": {
+          "type": "PRIMARY_SPONSOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": null,
+          "city": "Freiburg",
+          "zip": "79106",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Klinik für Mund-, Kiefer- und GesichtschirurgieUniversitätsklinikum Freiburg"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PUBLIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Hugstetter Strasse 55",
+          "city": "Freiburg",
+          "zip": "79016",
+          "country": "DE",
+          "email": "marc.metzger@uniklinik-freiburg.de",
+          "fax": null,
+          "firstName": "Marc",
+          "lastName": "Metzger",
+          "phone": "076127049160",
+          "title": "Prof. Dr. Dr.",
+          "url": null,
+          "affiliation": "MKG"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PRINCIPAL_COORDINATING_INVESTIGATOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Hugstetter Strasse 55",
+          "city": "Freiburg",
+          "zip": "79106",
+          "country": "DE",
+          "email": "marc.anton.fuessinger@gmail.com",
+          "fax": null,
+          "firstName": "Marc Anton",
+          "lastName": "Füßinger",
+          "phone": "076127049160",
+          "title": "Dr.",
+          "url": null,
+          "affiliation": "MKG-Chirurgie, Universitätsklinikum Freiburg"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "SCIENTIFIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Hugstetter Strasse 55",
+          "city": "Freiburg",
+          "zip": "79106",
+          "country": "DE",
+          "email": "marc.anton.fuessinger@gmail.com",
+          "fax": null,
+          "firstName": "Marc Anton",
+          "lastName": "Füßinger",
+          "phone": "076127049160",
+          "title": "Dr.",
+          "url": null,
+          "affiliation": "MKG-Chirurgie, Universitätsklinikum Freiburg"
+        }
+      }
+    ],
+    "materialSupports": [
+      {
+        "contact": {
+          "streetAndNo": "Hugstetter Strasse 55",
+          "city": "Freiburg",
+          "zip": "79106",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "MKG"
+        },
+        "type": "INSTITUTIONAL"
+      }
+    ],
+    "studyCharacteristic": {
+      "type": "NON_INTERVENTIONAL",
+      "allocation": null,
+      "assignment": null,
+      "blindingType": null,
+      "blindingWhoList": [],
+      "controlTypes": [],
+      "phase": null,
+      "purpose": "OTHER",
+      "typeNonInterventional": null,
+      "characteristicDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "primaryOutcome": "Genauigkeit der virtuellen Frakturrekonstruktion gegenüber der Rekonstruktion mittels Spiegelung als Goldstandardverfahren-Unterschiede in mm zum unverletzten Schädel.",
+          "secondaryOutcome": null,
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "primaryOutcome": "Precision of virtual fracture reconstruction by using statical model versus fracture reconstruction by mirroring as goldstandard- Differences in mm between both procedures versus the uninjured skull",
+          "secondaryOutcome": null,
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        }
+      ],
+      "timing": null,
+      "duration": null
+    },
+    "trialResults": {
+      "ipdSharingPlan": null,
+      "trialResultsDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "ipdSharingPlanDescription": null,
+          "briefSummaryOfResultsDescription": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "ipdSharingPlanDescription": null,
+          "briefSummaryOfResultsDescription": null
+        }
+      ],
+      "plannedPublication": null,
+      "firstPublication": null,
+      "firstResultPublication": null,
+      "publications": [],
+      "relatedDrksTrials": []
+    },
+    "secondaryIds": {
+      "otherPrimaryRegisterId": null,
+      "otherPrimaryRegisterName": null,
+      "universalTrialNumber": null,
+      "eudraCtNumber": null,
+      "eudamedNumber": null,
+      "noOtherIdentificationNumbersAvailable": true
+    },
+    "otherSecondaryIds": [],
+    "studiedHealthConditions": [
+      {
+        "type": "MAIN",
+        "catalog": "ICD10",
+        "code": "S02.4",
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Fraktur des Jochbeins und des Oberkiefers"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Fracture of malar and maxillary bones"
+          }
+        ]
+      },
+      {
+        "type": "OTHER",
+        "catalog": "ICD10",
+        "code": "S02.3",
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Fraktur des Orbitabodens"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "Fracture of orbital floor"
+          }
+        ]
+      }
+    ],
+    "recruitment": {
+      "institutes": [
+        {
+          "type": "UNI_MEDICAL_CENTER",
+          "name": "MKG",
+          "city": "Freiburg im Breisgau"
+        }
+      ],
+      "countries": [
+        {
+          "idCountry": {
+            "code": "DE"
+          }
+        }
+      ],
+      "centricType": "MONOCENTRIC",
+      "gender": "ALL",
+      "minimumAge": {
+        "amount": 18,
+        "unit": "YEARS"
+      },
+      "maximumAge": {
+        "amount": 100,
+        "unit": "YEARS"
+      },
+      "totalParticipants": null,
+      "plannedParticipants": 350,
+      "status": "RECRUITING",
+      "recruitmentDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "Trümmerfrakturen/beidseits/übrige Gesichtsschädelfrakturen\n",
+          "inclusionCriteria": "-einseitig\n-Jochbein\n-Jochbogen\n-Orbitaboden\n"
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "bilateral/comminuted fracutres/other facial fractures",
+          "inclusionCriteria": "unilateral/zygomatic bone/zygomatic arch/orbital floor"
+        }
+      ],
+      "scheduledStartDate": "2015-10-06",
+      "scheduledCompletionDate": null,
+      "actualStartDate": "2015-10-06",
+      "actualCompletionDate": null,
+      "healthyVolunteers": null
+    },
+    "ethicsCommittee": {
+      "applicationDate": "2015-09-23",
+      "number": "450/15",
+      "ethicVotes": [
+        {
+          "dateOfVote": "2015-10-06",
+          "vote": "APPROVED",
+          "type": "ETHICS_COMMITTEE",
+          "contact": {
+            "streetAndNo": "Engelberger Str. 21",
+            "city": "Freiburg",
+            "zip": "79106",
+            "country": "DE",
+            "email": "ekfr.mpg@uniklinik-freiburg.de",
+            "fax": "+49-761-27072630",
+            "firstName": null,
+            "lastName": null,
+            "phone": "+49-761-27072600",
+            "title": null,
+            "url": null,
+            "affiliation": "Ethik-Kommission der Albert-Ludwigs-Universität Freiburg"
+          }
+        }
+      ]
+    },
+    "studyWithdrawn": null,
+    "studyWithdrawnMessage": null
+  },
+  {
+    "drksId": "DRKS00009701",
+    "trialStatus": "UPDATED",
+    "registrationDrks": "2015-11-23",
+    "registrationType": "PROSPECTIVE",
+    "lastUpdate": "2023-01-20",
+    "sponsored": true,
+    "url": "",
+    "trialDescriptions": [
+      {
+        "idLocale": {
+          "locale": "de"
+        },
+        "acronym": "",
+        "title": "Überlebenslangzeitanalysen von teleskopverankerten Teilprothesen unter besonderer Berücksichtigung der verwendeten Metalllegierung",
+        "summary": "Teleskopprothesen dienen als Zahnersatz, besonders bei Patienten mit wenigen Restzähnen. In dieser Studie soll retrospektiv anhand vorhandener Patientenakten die Überlebenszeit der Prothesen und der Zähne, auf denen diese verankert ist, analysiert werden. Als Definition des Scheiterns ist dabei für die Zähne deren Verlust und für die Prothese eine komplette Neuanfertigung gewählt. Des Weiteren soll die erste Korrekturmaßnahme, welche an der Prothese durchgeführt wurde, auf Art und Zeitpunkt untersucht werden. Die Art und der Zeitpunkt der ersten Korrektur während des Funktionszeitraumes (das heißt ab 30 Tage nachdem die Prothese eingegliedert wurde), sowie Häufigkeit aller Maßnahmen während dieses Zeitraumes werden ebenfalls ausgewertet. Es soll die Hypothese geprüft werden, dass kein Unterschied bezüglich des Überlbens zwischen Prothesen aus hochgoldhaltiger und Nicht-Edelmetall Legierung besteht.",
+        "scientificSummary": "Bei der Studie handelt es sich um eine retrospektive Longitudinalstudie zur Überlebenswahrscheinlichkeit von Teleskopprothesen und deren Pfeilerzähne. Diese werden auf verschiedene Parameter, mit besonderem Hinblick auf die verwendete Metalllegierung, untersucht. Es soll eine Analyse anhand Kaplan-Meier erfolgen. Als 'eingetretenes Ereignis' wird bei den Pfeilerzähnen deren Extraktion und bei den Teleskopprothesen eine Neuanfertigung definiert. Korrektur- und Wiederherstellungsmaßnahmen sollen auf Art und Zeitpunkt der ersten Maßnahme per se und während der Funktionsperiode (ab 30 Tage Post-Inkorporation) untersucht werden. Die absolute Zahl aller Wiederherstellungsmaßnahmen während des Funktionszeitraums soll zwischen den beiden Legierungen verglichen werden.\r\nDie Datenerhebung beruht sich dabei auf Patienten, die in der Abteilung für zahnärztliche Prothetik mit einer Teleskopprothese versorgt wurden, mindestens 18 Jahre alt sind und zu mindestens einem weiteren Mal in der Abteilung vorstellig waren. Zum Ausschluss führen Patienten, bei denen Implantate als Teleskoppfeiler dienen, dereb Prothese als Obturator dient oder bei denen Daten fehlen (insbesondere Metalllegierung). Es soll die Hypothese geprüft werden, dass kein Unterschied bezüglich des Überlbens zwischen Prothesen aus hochgoldhaltiger und Nicht-Edelmetall Legierung besteht."
+      },
+      {
+        "idLocale": {
+          "locale": "en"
+        },
+        "acronym": "",
+        "title": "Long Term Survival of Telescopic-Crown-Retained-Partial-Dentures with particular attention on used metal alloy",
+        "summary": "Telescopic-Crown-Retained-Partial-Dentures are a type of denture which is especially used by patients with few remaining teeth. This study's aim is to analyze the survival of the prosthesis and the teeth on which it is provided, on the basis of patient files. Definition of failure for the teeth is their loss, as for the prosthesis the production of a completely new denture. Furthermore the first correction, which is made on the prosthesis, shall be looked at considering type and time. Type and time of the first correction/ maintenance during the functional period (which means starting 30 days after the prosthesis was inserted), as well as the frequency of all types of corrections/ maintenance during that time, shall be examined. The hypothesis, that there is no difference on the survival between non-precious and precious alloy prosthesis, shall be analyzed. ",
+        "scientificSummary": "This study is designed as a retrospective longitudinal study for the survival of Telescopic-Crown-Retained-Partial-Dentures and their abutment teeth. Different parameters, especially the used metal alloy, are going to be analyzed. Statistics shall be performed using Kaplan-Meier-Estimator. Definition of ‘event occurrence’  for abutments is extraction and for the prosthesis the production of a new denture. Corrections and maintenances shall be examined for type and time of the absolutely first measure and the first measure during the functional period (which starts 20 days post-incorporation). The absolute frequency of the individual measures between the two alloy types during the functional period shall be compared. \r\nThe data collection is based on patients, who received a Telescopic-Crown-Retained-Partial-Denture at the department of prosthodontics (“Poliklinik für Zahnärztliche Prothetik Giessen”), were at least 18 years old and showed up at least one more time after incorporation. Patients with implants as abutments, obturators or missing data (in particular the kind of type) are going to be excluded.\r\nThe hypothesis, that there is no difference on the survival between non-precious and precious alloy prosthesis, shall be analyzed. "
+      }
+    ],
+    "observationalGroups": [
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "de"
+        },
+        "comment": "Konstruktionen aus Nicht-Edelmetall (werden auf den Zeitraum zwischen Eingliederung und Neuanfertigung einer Prothese bzw. auf das Datum des letzten Besuchs (=Zensur) ausgewertet)"
+      },
+      {
+        "idArm": {
+          "arm": 1,
+          "locale": "en"
+        },
+        "comment": "non-precious construction (the period from insertion to new denture or date of the last visit (=censored) is going to be evaluated)"
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "de"
+        },
+        "comment": "Konstruktionen aus hochgoldhaltiger Legierung (werden auf den Zeitraum zwischen Eingliederung und Neuanfertigung einer Prothese bzw. auf das Datum des letzten Besuchs (=Zensur) ausgewertet)"
+      },
+      {
+        "idArm": {
+          "arm": 2,
+          "locale": "en"
+        },
+        "comment": "precious construction (the period from insertion to new denture or date of the last visit (=censored) is going to be evaluated)"
+      },
+      {
+        "idArm": {
+          "arm": 3,
+          "locale": "de"
+        },
+        "comment": "vitale Pfeilerzähne (werden auf den Zeitraum zwischen Eingliederung und Extraktion bzw. auf das Datum des letzten Besuchs (=Zensur) ausgewertet)"
+      },
+      {
+        "idArm": {
+          "arm": 3,
+          "locale": "en"
+        },
+        "comment": "vital abutments (the period from insertion to extraction or date of the last visit (=censored) is going to be evaluated)"
+      },
+      {
+        "idArm": {
+          "arm": 4,
+          "locale": "de"
+        },
+        "comment": "avitale Pfeilerzähne mit Stiftaufbau (werden auf den Zeitraum zwischen Eingliederung und Extraktion bzw. auf das Datum des letzten Besuchs (=Zensur) ausgewertet)"
+      },
+      {
+        "idArm": {
+          "arm": 4,
+          "locale": "en"
+        },
+        "comment": "non-vital abutments with post and core (the period from insertion to extraction or date of the last visit (=censored) is going to be evaluated)"
+      },
+      {
+        "idArm": {
+          "arm": 5,
+          "locale": "de"
+        },
+        "comment": "avitale Pfeilerzähne ohne Stiftaufbau (werden auf den Zeitraum zwischen Eingliederung und Extraktion bzw. auf das Datum des letzten Besuchs (=Zensur) ausgewertet)"
+      },
+      {
+        "idArm": {
+          "arm": 5,
+          "locale": "en"
+        },
+        "comment": "non-vital abutments without post and core (the period from insertion to extraction or date of the last visit (=censored) is going to be evaluated)"
+      }
+    ],
+    "trialContacts": [
+      {
+        "idContactIdType": {
+          "type": "PRIMARY_SPONSOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Schlangenzahl 14",
+          "city": "Gießen",
+          "zip": "35392",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "title": null,
+          "url": null,
+          "affiliation": "Med. Zentrum für Zahn-, Mund- und Kieferheilkunde, Poliklinik für zahnärztliche Prothetik"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PUBLIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Schlangenzahl 14",
+          "city": "Gießen",
+          "zip": "35392",
+          "country": "DE",
+          "email": "Luisa.Kurzrock@dentist.med.uni-giessen.de",
+          "fax": null,
+          "firstName": "Luisa",
+          "lastName": "Kurzrock",
+          "phone": "0641-9946148",
+          "title": null,
+          "url": null,
+          "affiliation": "Med. Zentrum für Zahn-, Mund- und Kieferheilkunde, Poliklinik für zahnärztliche Prothetik"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "PRINCIPAL_COORDINATING_INVESTIGATOR"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Schlangenzahl 14",
+          "city": "Gießen",
+          "zip": "35392",
+          "country": "DE",
+          "email": "Peter.Rehmann@dentist.med.uni-giessen.de",
+          "fax": null,
+          "firstName": "Peter",
+          "lastName": "Rehmann",
+          "phone": "0641/99-46161",
+          "title": "PD Dr.",
+          "url": null,
+          "affiliation": "Med. Zentrum für Zahn-, Mund- und Kieferheilkunde, Poliklinik für zahnärztliche Prothetik"
+        }
+      },
+      {
+        "idContactIdType": {
+          "type": "SCIENTIFIC_QUERIES"
+        },
+        "otherType": null,
+        "contact": {
+          "streetAndNo": "Schlangenzahl 14",
+          "city": "Gießen",
+          "zip": "35392",
+          "country": "DE",
+          "email": "Peter.Rehmann@dentist.med.uni-giessen.de",
+          "fax": null,
+          "firstName": "Peter",
+          "lastName": "Rehmann",
+          "phone": "0641/99-46161",
+          "title": "PD Dr.",
+          "url": null,
+          "affiliation": "Med. Zentrum für Zahn-, Mund- und Kieferheilkunde, Poliklinik für zahnärztliche Prothetik"
+        }
+      }
+    ],
+    "materialSupports": [
+      {
+        "contact": {
+          "streetAndNo": "Schlangenzahl 14",
+          "city": "Gießen",
+          "zip": "35392",
+          "country": "DE",
+          "email": null,
+          "fax": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": "0641/99-46161",
+          "title": null,
+          "url": null,
+          "affiliation": "Med. Zentrum für Zahn-, Mund- und Kieferheilkunde, Poliklinik für zahnärztliche Prothetik"
+        },
+        "type": "INSTITUTIONAL"
+      }
+    ],
+    "studyCharacteristic": {
+      "type": "NON_INTERVENTIONAL",
+      "allocation": null,
+      "assignment": null,
+      "blindingType": null,
+      "blindingWhoList": [],
+      "controlTypes": [],
+      "phase": null,
+      "purpose": "TREATMENT",
+      "typeNonInterventional": "EPIDEMIOLOGICAL",
+      "characteristicDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "primaryOutcome": "Retrospektive Beurteilung des Überlebens von Teleskoprothesen und deren Pfeilerzähnen mit möglichen Einflussparametern anhand Patientenakten",
+          "secondaryOutcome": "Art und Zeitpunkt von Wiederherstellungs-/Korrekturmaßnahmen mit möglichen Einflussparametern. Zusätzlich Häufigkeiten von Wiederherstellungs-/Korrekturmaßnahmen während der Funktionsperiode",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "primaryOutcome": "retrospective assessment of the survival of Telescopic-Crown-Retained-Partial-Dentures and their abutment teeth with potential influencing parameters on the basis of patient files",
+          "secondaryOutcome": "Kind and time of correction measures/ maintenance with potential influencing parameters. Additionally frequency of correction/ maintenance measure during the functional period",
+          "typeOfHiddenAllocation": null,
+          "typeOfSequenceGeneration": null
+        }
+      ],
+      "timing": null,
+      "duration": null
+    },
+    "trialResults": {
+      "ipdSharingPlan": false,
+      "trialResultsDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "ipdSharingPlanDescription": "",
+          "briefSummaryOfResultsDescription": ""
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "ipdSharingPlanDescription": "",
+          "briefSummaryOfResultsDescription": ""
+        }
+      ],
+      "plannedPublication": "",
+      "firstPublication": "2018-10-12",
+      "firstResultPublication": "2023-01-20",
+      "publications": [
+        {
+          "description": "Zierden K, Kurzrock L, Wöstmann B, Rehmann P. Int J Prosthodont 2018;31: 459-464.",
+          "link": null,
+          "type": "RESULT",
+          "document": null
+        }
+      ],
+      "relatedDrksTrials": []
+    },
+    "secondaryIds": {
+      "otherPrimaryRegisterId": null,
+      "otherPrimaryRegisterName": null,
+      "universalTrialNumber": null,
+      "eudraCtNumber": null,
+      "eudamedNumber": null,
+      "noOtherIdentificationNumbersAvailable": true
+    },
+    "otherSecondaryIds": [],
+    "studiedHealthConditions": [
+      {
+        "type": "MAIN",
+        "catalog": "FREETEXT",
+        "code": null,
+        "studiedHealthConditionDescriptions": [
+          {
+            "idLocale": {
+              "locale": "de"
+            },
+            "comment": "Zahnersatz (Teleskopprothesen)"
+          },
+          {
+            "idLocale": {
+              "locale": "en"
+            },
+            "comment": "dentures (telescopic prosthesis)"
+          }
+        ]
+      }
+    ],
+    "recruitment": {
+      "institutes": [
+        {
+          "type": "UNI_MEDICAL_CENTER",
+          "name": "Med. Zentrum für Zahn-, Mund- und Kieferheilkunde, Poliklinik für zahnärztliche Prothetik",
+          "city": "Gießen"
+        }
+      ],
+      "countries": [
+        {
+          "idCountry": {
+            "code": "DE"
+          }
+        }
+      ],
+      "centricType": "MONOCENTRIC",
+      "gender": "ALL",
+      "minimumAge": {
+        "amount": 18,
+        "unit": "YEARS"
+      },
+      "maximumAge": {
+        "amount": null,
+        "unit": "NO_MAX_AGE"
+      },
+      "totalParticipants": 462,
+      "plannedParticipants": 450,
+      "status": "COMPLETE_FOLLOW_UP_COMPLETE",
+      "recruitmentDescriptions": [
+        {
+          "idLocale": {
+            "locale": "de"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "Implantate als Teleskoppfeiler\r\nObturatorprothesen\r\nunvollständige Daten bzgl. Legierung",
+          "inclusionCriteria": "Ausführung und Eingliederung der Teleskopprothese durch die Poliklinik für Zahnärztliche Prothetik (Gießen),sowie mindestens eine Wiedervorstellung"
+        },
+        {
+          "idLocale": {
+            "locale": "en"
+          },
+          "reasonDescription": null,
+          "exclusionCriteria": "implants as abutments, obturators and missing data (especially alloy)",
+          "inclusionCriteria": "implemantation and insertion of the prosthesis in the 'Poliklinik für Zahnärztliche Prothetik (Giessen)' and at least one more visit after insertion"
+        }
+      ],
+      "scheduledStartDate": "2015-12-01",
+      "scheduledCompletionDate": null,
+      "actualStartDate": "2015-12-01",
+      "actualCompletionDate": "2016-04-04",
+      "healthyVolunteers": null
+    },
+    "ethicsCommittee": {
+      "applicationDate": "2011-06-22",
+      "number": "164/11",
+      "ethicVotes": [
+        {
+          "dateOfVote": "2011-07-14",
+          "vote": "APPROVED",
+          "type": "ETHICS_COMMITTEE",
+          "contact": {
+            "streetAndNo": "Frankfurter Straße 51-53",
+            "city": "Gießen",
+            "zip": "35392",
+            "country": "DE",
+            "email": "ethik.kommission@pharma.med.uni-giessen.de",
+            "fax": "+49-641-9942479",
+            "firstName": null,
+            "lastName": null,
+            "phone": "+49-641-9942470",
+            "title": null,
+            "url": null,
+            "affiliation": "Ethik-Kommission des Fachbereichs Medizin der Justus-Liebig-Universität Gießen"
+          }
+        }
+      ]
+    },
+    "studyWithdrawn": false,
+    "studyWithdrawnMessage": null
+  }
+]
