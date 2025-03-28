@@ -1,0 +1,162 @@
+"drksId": "DRKS00000316",
+"trialStatus": "UPDATED",
+"registrationDrks": "2010-02-10",
+"registrationType": "PROSPECTIVE",
+"lastUpdate": "2012-01-11",
+"sponsored": false,
+"url": null,
+"trialDescriptions":
+"idLocale":
+"locale": "de"
+"acronym": "SATURN",
+"title": "Klinische Studie zur...
+"summary": "Mitral....
+"scientificSummary": "Mitralinsuffizien..
+"idLocale": 
+"locale": "en"
+"acronym": "SATURN",
+"title": "SATU...
+"summary": "Mitral Regur...
+"scientificSummary": "Mitra....
+"observationalGroups": 
+"idArm": 
+"arm": 1,
+"locale": "de"
+"comment": "Angiogra....
+"trialContacts": 
+"idContactIdType": 
+"type": "SCIENTIFIC_QUERIES"
+"otherType": null,
+"contact": 
+"streetAndNo": "Lohmühlenstraße 5",
+"city": "Hamburg",
+"zip": "20099",
+"country": "DE",
+"email": "k.kuck@asklepios.com",
+"fax": "+49.40.18.18.85.44.44",
+"firstName": "Karl-Heinz",
+"lastName": "Kuck",
+"phone": "+49.40.18.18.85.23.05",
+"title": "Prof. Dr. med.",
+"url": "http://www.asklepios.com/default.asp",
+"affiliation": "Hanseatic Heart Center\nAsklepios Klinik St. Georg"
+// andere idcontacttypes:
+"type": "PRIMARY_SPONSOR"
+"type": "PUBLIC_QUERIES"
+"materialSupports": 
+"contact": 
+...contactthingies
+"studyCharacteristic": 
+"type": "INTERVENTIONAL",
+"allocation": "SINGLE_ARM_STUDY",
+"assignment": "SINGLE",
+"blindingType": "OPEN",
+"blindingWhoList": ,
+"controlTypes": 
+"idControlType": 
+"controlType": "UNCONTROLLED_SINGLE_ARM"
+"phase": null,
+"purpose": "OTHER",
+"typeNonInterventional": null,
+"characteristicDescriptions": 
+"idLocale": 
+"locale": "de"
+"primaryOutcome": "1. Akuter prim....
+"secondaryOutcome": null,
+"typeOfHiddenAllocation": null,
+"typeOfSequenceGeneration": null
+"idLocale": 
+"locale": "en"
+"primaryOutcome": "1. Acute Prima....
+"secondaryOutcome": null,
+"typeOfHiddenAllocation": null,
+"typeOfSequenceGeneration": null
+"timing": null,
+"duration": null
+"trialResults": 
+"ipdSharingPlan": null,
+"trialResultsDescriptions": 
+"idLocale": 
+"locale": "de"
+"ipdSharingPlanDescription": null,
+"briefSummaryOfResultsDescription": null
+"idLocale": 
+"locale": "en"
+"ipdSharingPlanDescription": null,
+"briefSummaryOfResultsDescription": null
+"plannedPublication": null,
+"firstPublication": null,
+"firstResultPublication": null,
+"publications": ,
+"relatedDrksTrials": 
+"secondaryIds": 
+"otherPrimaryRegisterId": null,
+"otherPrimaryRegisterName": null,
+"universalTrialNumber": "U1111-1113-3981",
+"eudraCtNumber": null,
+"eudamedNumber": null,
+"noOtherIdentificationNumbersAvailable": false
+"otherSecondaryIds": 
+"value": "CLIN-0010-MV-REV01-2009-10-19",
+"description": "sponsor-id - ReCor Medical, Inc."
+"studiedHealthConditions": 
+"type": "MAIN",
+"catalog": "ICD10",
+"code": "I34.0",
+"studiedHealthConditionDescriptions": 
+"idLocale": 
+"locale": "de"
+"comment": "Mitralklappeninsuffizienz"
+"idLocale": 
+"locale": "en"
+"comment": "Mitral (valve) insufficiency"
+"recruitment": 
+"institutes": ,
+"countries": 
+"idCountry": 
+"code": "DE"
+"centricType": "MULTICENTRIC",
+"gender": "ALL",
+"minimumAge": 
+"amount": 18,
+"unit": "YEARS"
+"maximumAge": 
+"amount": null,
+"unit": "NO_MAX_AGE"
+"totalParticipants": null,
+"plannedParticipants": 10,
+"status": "RECRUITING",
+"recruitmentDescriptions": 
+"idLocale": 
+"locale": "de"
+"reasonDescription": null,
+"exclusionCriteria": "1. Schwere Kalzifizierung des Annulus oder Segel, die unter Fluoroskopie Kalzifierungen.....................
+"inclusionCriteria": "1. Weibliche und männliche Patienten im Alter von 18 J....
+.... gleiches in english
+"scheduledStartDate": "2010-02-15",
+"scheduledCompletionDate": null,
+"actualStartDate": null,
+"actualCompletionDate": null,
+"healthyVolunteers": null
+"ethicsCommittee": 
+"applicationDate": "2009-10-20",
+"number": "PV3363",
+"ethicVotes": 
+"dateOfVote": "2010-01-15",
+"vote": "APPROVED",
+"type": "ETHICS_COMMITTEE",
+"contact": 
+"streetAndNo": "Weidestraße 122 b",
+"city": "Hamburg",
+"zip": "22083",
+"country": "DE",
+"email": "ethik@aekhh.de",
+"fax": "+40-40-202299410",
+"firstName": null,
+"lastName": null,
+"phone": "+49-40-2022990",
+"title": null,
+"url": null,
+"affiliation": "Ethik-Kommission der Ärztekammer Hamburg"
+"studyWithdrawn": null,
+"studyWithdrawnMessage": null
