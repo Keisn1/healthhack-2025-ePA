@@ -1,0 +1,58 @@
+1 Preamble:
+
+Problem: Studien brauchen Patienten um ihre Produkte zu testen.
+Lösung: Direktanbindung durch die ePa in den Krankenkassen apps.
+Beispiel:
+Wir haben Max Mustermann, er ist an Parkinson erkrankt.
+Es gibt keine Behandlung für Parkinson.
+Aber da die ePa eingeführt wurde, sind jetzt anstatt in einem Papierhaufen,
+seine Diagnose in seinem smartphone.
+Nun kann er nach zustimmung zum Datenabgleich sehen dass es Studien 
+gibt die Parkinsons versuchen zu heilen.
+
+
+Wie? insert flowchart
+
+im detail:
+
+in der DRKS werden täglich mindestens 4 neue Studien gepostet.(ausser an wochenenden)
+Die DRKS bietet die Daten der registrierten Studien in einem geordneten und
+leicht zu erfassenden json format.
+Diese Daten umfassen die Teilnehmervorraussetzung, den genauen Typ der Krankheit
+für den gesucht wird (ihr kennt ja alle diesen komischen healthcode der bei soner 
+überweisung immer draufsteht, DER BEDEUTET WAS!, nämlich ist das der Code der Krankheit,
+die wir hier sogar abgleichen können, denn das sieht in etwa so aus in der json:)
+
+"studiedHealthConditions": [
+{
+"type": "MAIN",
+"catalog": "ICD10",
+"code": "G20",
+"studiedHealthConditionDescriptions": [
+{
+"idLocale": {
+"locale": "de"
+},
+"comment": "Primäres Parkinson-Syndrom"
+
+Unsere Anbindung vergleicht diese Einträge mit den Daten des Users, und gibt alle
+treffer in einer Übersicht aus.
+
+Warum sollten Krankenkassen diese Anbindung wollen?
+Mehr Fortschritt für Wissenschaft.
+Medizinische Forschung -> bessere Möglichkeiten Heilmittel zu finden
+mehr informierte User, die nun direkt wissen dass es Studien gibt, 
+an denen sie teilnehmen können.
+mehr Fortschritt.
+WE ALL LOVE SCIENCE
+-> restore faith in humanity, because it's not always about the money
+
+
+Warum dieser Weg, warum keine eigene App?
+
+kein direkter weg es zu vermarkten
+niemand wird sich eine app runterladen, und die dann verknüpfen mit seiner 
+krankenkassen app, um DANN einem DATENABGLEICH ZUZUSTIMMEN
+
+ne.
+das will keiner

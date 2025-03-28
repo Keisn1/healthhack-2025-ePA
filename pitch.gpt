@@ -1,0 +1,67 @@
+Problemstellung:
+Studien benötigen Patienten, um neue Produkte und Behandlungen zu testen.
+
+Lösung:
+Direktverknüpfung über die elektronische Patientenakte (ePa) in den Krankenkassen-Apps.
+
+Beispiel:
+Max Mustermann ist an Parkinson erkrankt – einer Krankheit, für die es bislang keine Heilung gibt.
+Mit der Einführung der ePa sind seine medizinischen Daten nun digital und sicher in seiner Smartphone-App gespeichert, anstatt auf Papier.
+Dank dieser digitalen Lösung kann Max nach Zustimmung zum Datenabgleich sofort erkennen, welche Studien zur Parkinson-Behandlung verfügbar sind und gegebenenfalls teilnehmen.
+
+
+
+Täglich werden im DRKS mindestens 4 neue Studien veröffentlicht (außer an Wochenenden).
+Das DRKS stellt die Daten dieser registrierten Studien in einem strukturierten und leicht zugänglichen JSON-Format zur Verfügung.
+
+Diese Daten umfassen unter anderem:
+
+Teilnahmevoraussetzungen
+
+Den genauen Typ der gesuchten Krankheit (bekannt durch den spezifischen Healthcode, der bei Überweisungen verwendet wird)
+
+Beispiel eines solchen Codes im JSON-Format:
+
+json
+Copy
+"studiedHealthConditions": [
+{
+  "type": "MAIN",
+  "catalog": "ICD10",
+  "code": "G20",
+  "studiedHealthConditionDescriptions": [
+    {
+      "idLocale": {
+        "locale": "de"
+      },
+      "comment": "Primäres Parkinson-Syndrom"
+    }
+  ]
+}
+]
+Unsere Anbindung vergleicht diese Einträge mit den Gesundheitsdaten des Nutzers und gibt alle Treffer in einer übersichtlichen Darstellung aus.
+
+Warum sollten Krankenkassen diese Anbindung unterstützen?
+
+Mehr Fortschritt für die Wissenschaft: Durch die direkte Verbindung zu aktuellen Studien wird die medizinische Forschung gefördert und somit die Entdeckung neuer Heilmittel beschleunigt.
+
+Bessere Möglichkeiten zur Heilmittelentwicklung: Dank der Teilnahme an klinischen Studien können bedeutende Fortschritte in der Behandlung von Krankheiten erzielt werden.
+
+Mehr informierte Nutzer: Patienten können nun direkt erkennen, dass es Studien gibt, an denen sie teilnehmen können, was den Zugang zur Forschung vereinfacht.
+
+Mehr Fortschritt: Die Zusammenarbeit zwischen Krankenkassen und Studienzentren schafft eine effiziente Möglichkeit, medizinische Innovationen voranzutreiben.
+
+WE ALL LOVE SCIENCE
+
+
+
+Warum dieser Weg und nicht eine eigene App?
+
+Kein direkter Weg zur Vermarktung: Eine separate App für solche Zwecke wäre schwer zu bewerben und umzusetzen.
+
+Nutzerakzeptanz: Niemand wird sich eine zusätzliche App herunterladen, um diese dann mit der Krankenkassen-App zu verbinden und anschließend einem Datenabgleich zuzustimmen.
+
+Komfort der Nutzer: Nutzer bevorzugen einfache, unkomplizierte Lösungen, ohne den Aufwand einer zusätzlichen App.
+
+Es gibt eine bessere Möglichkeit, und diese ist der direkte Weg über die Krankenkassen-App.
+

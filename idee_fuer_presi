@@ -12,6 +12,23 @@ vorstellung der DRKS , auf der täglich mindestens 4 neue Studien gepostet werde
 
 kurzer showcase der DRKS daten auf die wir zugriff haben
 
+DIE GESUCHTE HEALTHCONDITION IST HINTERLEGT DIREKT. 
+KEIN NEED FÜR LLM ODER KI ODER RAG. (ausser vllt für die patientendaten)
+
+"studiedHealthConditions": [
+{
+"type": "MAIN",
+"catalog": "ICD10",
+"code": "G20",
+"studiedHealthConditionDescriptions": [
+{
+"idLocale": {
+"locale": "de"
+},
+"comment": "Primäres Parkinson-Syndrom"
+
+
+for presentation: scroll through the last 100 posted studies on DRKS
 stand; direktanbindung/ direktpitch an die jeweiligen Krankenkassen,
 dass wir die Funktionalität einbauen, einen direkten Datenabgleich der 
 DRKS herzustellen, um die Daten der User abzugleichen und ihnen zu zeigen
@@ -31,6 +48,8 @@ klick auf ne studie:
 überblick auf die vorraussetzungen,
 länge der studie, zeitaufwand, standort.
 
+
+
 beispielstudien
 vorstellen 
 wie zb https://drks.de/search/de/trial/DRKS00035792/details
@@ -42,5 +61,62 @@ being able to show off to other companies " we have this you dont."
 
 
 
+examples for when studies failed because not enough people
 
+lokal begrenztem Prostatakrebs 2016, 350 out of 2000 people registered
+
+chronischen lymphatischen Leukämie, 2017-2022 86 out of 94 people registered.
+
+Studie zu Lupus nur 21 von 120 geplanten Teilnehmern.
+
+
+
+
+how to implement: flowchart
+
+User button on App (insert photo maybe)
+
+THE USER CLICKS THE button
+->
+THE USER GETS ASKED IF THEY CONSENT TO USE THEIR DATA TO FIND
+STUDIES THAT HE THEY ARE ELIGIBLE TO
+->
+THE USER CLICKS YES
+->
+THE DATA FROM THE EPA GETS CROSS CHECKED WITH OUR AVAILABLE DATA FROM THE TABLE FROM DRKS
+->
+HOW? FIND OUT NEXT EPISODE// TENTATIVE
+->
+THE USER GETS A LIST OF STUDIES THEY ARE ELIGIBLE FOR
+->
+THE USER CLICKS ON A STUDY
+->
+PAGE OPENS ON A NEATLY FORMATTED THING WHICH SHOWS 
+-HOW LONG THE STUDY GOES FOR
+-A BRIEF DESCRIPTION WHAT THIS TRIAL IS ABOUT
+-WHAT KIND OF CRITERIA GOT MATCHED AS TO WHY SHE WAS SHOWN THIS//maybe
+-and other stuff idk
+
+->
+THE USER CLICKS THE BUTTON TO CONTACT THE PEOPLE FROM THE STUDY
+->
+USER GETS PROMPTED IF THEY WANT TO SEND AN EMAIL TO SHARE THEIR DATA WITH THE ORGANIZERS OF THE STUDY
+->
+USER CLICKS YES
+->
+MAIL HAS BEEN SENT. YOU SHOULD BE GETTING AN ANSWER SOON (hopefully)
+
+
+gpt:
+User clicks button on the app and consents to share data for study matching.
+
+Data is cross-checked with available studies in the DRKS database.// with a RAG //
+
+User receives a list of eligible studies, clicks to view details.
+
+Study page shows details (duration, description, criteria match).
+
+User clicks to contact study organizers and confirms sending email.
+
+Confirmation message: "Email sent. You should be getting an answer soon."
 
